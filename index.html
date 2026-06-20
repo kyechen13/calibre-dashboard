@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>我的書庫</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>📚 我的書庫</h1>
+  <input id="search" type="search" placeholder="搜尋書名、作者、標籤…" autocomplete="off">
+
+  <div id="filters">
+    <select id="filter-tag">
+      <option value="">標籤：全部</option>
+    </select>
+
+    <select id="sort-key">
+      <option value="date_added">排序：新增日期</option>
+      <option value="quality_rating">排序：評分</option>
+      <option value="authors">排序：作者</option>
+    </select>
+
+    <select id="sort-dir">
+      <option value="desc">新→舊／高→低／Z→A</option>
+      <option value="asc">舊→新／低→高／A→Z</option>
+    </select>
+
+    <button id="filter-reset">重設</button>
+  </div>
+
+  <div id="count"></div>
+</header>
+
+<main id="grid"></main>
+
+<div id="modal-backdrop" class="hidden">
+  <div id="modal">
+    <button id="modal-close">✕</button>
+    <img id="modal-cover" src="" alt="">
+    <div id="modal-info">
+      <h2 id="modal-title"></h2>
+      <p id="modal-authors"></p>
+      <p id="modal-rating"></p>
+      <p id="modal-label"></p>
+      <p id="modal-review"></p>
+      <p id="modal-tags"></p>
+      <p id="modal-pubdate"></p>
+    </div>
+  </div>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>
