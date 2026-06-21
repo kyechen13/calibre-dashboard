@@ -22,6 +22,7 @@ JSON_PATH = DASHBOARD_DIR / "library.json"
 AI_CSV_PATH = DASHBOARD_DIR / "library_for_ai.csv"
 AI_CSV_FIELDS = ["title", "authors", "tags", "quality_rating", "rating_label", "key_review", "reading_status", "date_added"]
 THUMB_MAX_DIM = 240
+SRGB_PROFILE = "/System/Library/ColorSync/Profiles/sRGB Profile.icc"
 
 QUERY = """
 SELECT
@@ -55,7 +56,7 @@ def make_thumbnail(book_id, src_path):
     if not src_path.exists():
         return False
     result = subprocess.run(
-        ["sips", "-Z", str(THUMB_MAX_DIM), str(src_path), "--out", str(dest)],
+        ["sips", "-m", SRGB_PROFILE, "-Z", str(THUMB_MAX_DIM), str(src_path), "--out", str(dest)],
         capture_output=True, text=True
     )
     return result.returncode == 0
