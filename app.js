@@ -10,6 +10,7 @@ const filterStatus = document.getElementById("filter-status");
 const sortKey = document.getElementById("sort-key");
 const sortDir = document.getElementById("sort-dir");
 const filterReset = document.getElementById("filter-reset");
+const filterRefresh = document.getElementById("filter-refresh");
 
 function stars(rating) {
   if (!rating) return "";
@@ -89,26 +90,39 @@ function applyFilters() {
   render(sortBooks(filtered));
 }
 
-function render(books) {
-  grid.innerHTML = "";
-  count.textContent = `${books.length} books`;
-  for (const b of books) {
-    const card = document.createElement("div");
-    card.className = "card";
+let booksById = new Map();
 
+function escapeHtml(s) {
+  return (s || "").replace(/[&<>"']/g, c => ({
+    "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"
+  }[c]));
+}
+
+function render(books) {
+  count.textContent = `${books.length} books`;
+  booksById = new Map(books.map(b => [b.id, b]));
+
+  grid.innerHTML = books.map(b => {
+    const title = escapeHtml(b.title);
     const img = b.cover
       ? `<img src="${b.cover}" alt="" loading="lazy">`
-      : `<div class="no-cover">${b.title}</div>`;
-
-    card.innerHTML = `
-      ${img}
-      <div class="title">${b.title}</div>
-      <div class="stars">${stars(b.quality_rating)}</div>
+      : `<div class="no-cover">${title}</div>`;
+    return `
+      <div class="card" data-id="${b.id}">
+        ${img}
+        <div class="title">${title}</div>
+        <div class="stars">${stars(b.quality_rating)}</div>
+      </div>
     `;
-    card.addEventListener("click", () => openModal(b));
-    grid.appendChild(card);
-  }
+  }).join("");
 }
+
+grid.addEventListener("click", (e) => {
+  const card = e.target.closest(".card");
+  if (!card) return;
+  const book = booksById.get(Number(card.dataset.id));
+  if (book) openModal(book);
+});
 
 function openModal(b) {
   document.getElementById("modal-cover").src = b.cover || "";
@@ -146,10 +160,21 @@ filterReset.addEventListener("click", () => {
   applyFilters();
 });
 
-fetch("library.json")
-  .then(r => r.json())
-  .then(data => {
-    allBooks = data;
-    populateFilterOptions();
-    applyFilters();
-  });
+function loadLibrary() {
+  return fetch(`library.json?t=${Date.now()}`, { cache: "no-store" })
+    .then(r => r.json())
+    .then(data => {
+      allBooks = data;
+      filterTag.innerHTML = '<option value="">Tag: All</option>';
+      filterStatus.innerHTML = '<option value="">Status: All</option>';
+      populateFilterOptions();
+      applyFilters();
+    });
+}
+
+filterRefresh.addEventListener("click", () => {
+  filterRefresh.disabled = true;
+  loadLibrary().finally(() => { filterRefresh.disabled = false; });
+});
+
+loadLibrary();
