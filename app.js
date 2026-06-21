@@ -105,7 +105,7 @@ function openModal(b) {
   document.getElementById("modal-label").textContent = b.rating_label;
   document.getElementById("modal-review").textContent = b.key_review;
   document.getElementById("modal-tags").textContent = b.tags ? `標籤：${b.tags}` : "";
-  document.getElementById("modal-pubdate").textContent = b.date_added ? `加入日期：${b.date_added}` : "";
+  document.getElementById("modal-pubdate").textContent = b.date_added ? `加入日期：${b.date_added.slice(0, 10)}` : "";
   modalBackdrop.classList.remove("hidden");
 }
 

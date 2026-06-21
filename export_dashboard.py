@@ -86,7 +86,7 @@ def main():
             "authors": row["authors"] or "",
             "tags": row["tags"] or "",
             "pubdate": (row["pubdate"] or "")[:10],
-            "date_added": (row["date_added"] or "")[:10],
+            "date_added": (row["date_added"] or "").split("+")[0],
             "quality_rating": (quality_rating / 2) if quality_rating else None,
             "rating_label": row["rating_label"] or "",
             "key_review": row["key_review"] or "",
