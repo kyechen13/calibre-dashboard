@@ -59,7 +59,7 @@
   "pubdate": "2021-10-31",
   "date_added": "2022-08-21 10:16:48.461178",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本設計師作品，英語世界資料極有限",
   "reading_status": "",
   "cover": "covers/11.jpg"
@@ -267,7 +267,7 @@
   "pubdate": "2021-12-27",
   "date_added": "2022-09-13 05:16:31.016484",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "台灣國防分析，英語世界資料有限",
   "reading_status": "",
   "cover": "covers/34.jpg"
@@ -358,7 +358,7 @@
   "pubdate": "2013-09-14",
   "date_added": "2022-09-27 07:51:31.870899",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "法文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/45.jpg"
@@ -436,7 +436,7 @@
   "pubdate": "2022-08-31",
   "date_added": "2022-11-08 07:13:11.188371",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/56.jpg"
@@ -448,8 +448,8 @@
   "tags": "#中譯、1. fiction",
   "pubdate": "2016-10-31",
   "date_added": "2022-11-08 08:19:05.448676",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "日文原創推理小說，英語學術界無充分評價。原書名：Malice",
   "reading_status": "read",
   "cover": "covers/58.jpg"
@@ -514,7 +514,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2022-11-22 07:35:59.088000",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "韓文原創作品，無法以英語學術資源評估",
   "reading_status": "read",
   "cover": "covers/63.jpg"
@@ -1085,7 +1085,7 @@
   "tags": "#中譯、3. language",
   "pubdate": "0101-01-01",
   "date_added": "2023-06-17 05:02:01.478396",
-  "quality_rating": 1.0,
+  "quality_rating": null,
   "rating_label": "無法評估",
   "key_review": "日文原創，作者為正統 SLA 學者，但此書為日文通俗著作",
   "reading_status": "",
@@ -1203,7 +1203,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2023-06-17 05:15:28.075073",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/156.jpg"
@@ -1371,8 +1371,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "2019-01-27",
   "date_added": "2024-04-24 01:56:45.551525",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語資源評估。",
   "reading_status": "read",
   "cover": "covers/180.jpg"
@@ -1580,7 +1580,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 12:42:38.423282",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/204.jpg"
@@ -1606,7 +1606,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 12:42:55.678159",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/206.jpg"
@@ -1619,7 +1619,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 12:42:55.806912",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "韓文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/208.jpg"
@@ -1748,8 +1748,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 12:42:56.919134",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "韓文原創作品，英語世界無充分評價資源。",
   "reading_status": "",
   "cover": "covers/219.jpg"
@@ -2074,7 +2074,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 12:58:22.043707",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "read",
   "cover": "covers/250.jpg"
@@ -2139,7 +2139,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 12:58:22.369232",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/255.jpg"
@@ -2152,7 +2152,7 @@
   "pubdate": "2019-08-25",
   "date_added": "2024-05-24 12:58:22.484717",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/256.jpg"
@@ -2269,9 +2269,9 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 13:18:28.970126",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日文原創作品，無法以英語學術資源評估",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/269.jpg"
  },
  {
@@ -2412,7 +2412,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 13:20:18.626936",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，英語世界資料有限",
   "reading_status": "",
   "cover": "covers/281.jpg"
@@ -2659,7 +2659,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 13:21:24.794628",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "台灣當代政治紀實，英語世界資料有限",
   "reading_status": "",
   "cover": "covers/300.jpg"
@@ -2672,7 +2672,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 13:21:24.864327",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "台灣地方政治研究，英語世界資料有限",
   "reading_status": "",
   "cover": "covers/301.jpg"
@@ -3101,7 +3101,7 @@
   "pubdate": "2019-07-24",
   "date_added": "2024-05-30 07:29:13.835048",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/349.jpg"
@@ -3322,7 +3322,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-05-30 08:34:35.914215",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/372.jpg"
@@ -4024,7 +4024,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-06-17 13:21:04.752029",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，介紹 Minerva 大學教學法，無法以英語學術資源評估",
   "reading_status": "DNF",
   "cover": "covers/430.jpg"
@@ -4336,7 +4336,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-07-06 06:16:20.742061",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/471.jpg"
@@ -4401,7 +4401,7 @@
   "pubdate": "2017-08-03",
   "date_added": "2024-07-06 06:16:21.066138",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，英語世界資料有限",
   "reading_status": "",
   "cover": "covers/476.jpg"
@@ -4531,7 +4531,7 @@
   "pubdate": "2020-01-31",
   "date_added": "2024-07-06 06:16:21.926527",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/486.jpg"
@@ -4842,8 +4842,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "0101-01-01",
   "date_added": "2024-07-26 05:08:14.429344",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語資源評估。",
   "reading_status": "",
   "cover": "covers/576.jpg"
@@ -4855,8 +4855,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "0101-01-01",
   "date_added": "2024-07-26 05:08:14.471745",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "韓文原創作品，英語世界無充分評價資源。",
   "reading_status": "read",
   "cover": "covers/577.jpg"
@@ -4986,7 +4986,7 @@
   "pubdate": "2023-08-31",
   "date_added": "2024-09-16 08:17:17.193377",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/591.jpg"
@@ -5024,8 +5024,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "0101-01-01",
   "date_added": "2024-10-04 05:18:29.314248",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "日文原創作品，英語世界無評價資源。",
   "reading_status": "DNF",
   "cover": "covers/597.jpg"
@@ -5064,7 +5064,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-10-08 04:50:42.099317",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/600.jpg"
@@ -5129,7 +5129,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2024-10-24 06:34:14.649571",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "香港作家董啟章讀書隨筆，無法以英語學術資源評估",
   "reading_status": "skim",
   "cover": "covers/606.jpg"
@@ -5271,8 +5271,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "2024-01-29",
   "date_added": "2024-12-04 10:42:36.497131",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "日文原創推理小說，英語世界無評價資源。",
   "reading_status": "read",
   "cover": "covers/619.jpg"
@@ -5284,8 +5284,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "2023-12-05",
   "date_added": "2024-12-04 10:49:56.127000",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "日文原創作品，英語世界無評價資源。",
   "reading_status": "read",
   "cover": "covers/620.jpg"
@@ -5336,8 +5336,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "2020-04-01",
   "date_added": "2024-12-10 05:24:29.253694",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "中文/日文原創作品，無法以英語資源評估。",
   "reading_status": "",
   "cover": "covers/627.jpg"
@@ -5402,7 +5402,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-08 05:13:06.943102",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/636.jpg"
@@ -5571,7 +5571,7 @@
   "pubdate": "2022-05-03",
   "date_added": "2025-01-08 05:13:07.300123",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/652.jpg"
@@ -5701,7 +5701,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-08 05:13:07.647950",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/665.jpg"
@@ -5818,7 +5818,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-26 05:39:36.911703",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "台灣 Podcast 作者，國際新聞普及，英語世界資料有限",
   "reading_status": "",
   "cover": "covers/680.jpg"
@@ -5961,7 +5961,7 @@
   "pubdate": "2012-11-26",
   "date_added": "2025-02-03 05:21:44.154841",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日文原創作品，無法以英語學術資源評估",
   "reading_status": "read",
   "cover": "covers/692.jpg"
@@ -6025,8 +6025,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "0101-01-01",
   "date_added": "2025-02-13 11:05:16.042592",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "泰文原創作品，英語世界無評價資源。",
   "reading_status": "",
   "cover": "covers/697.jpg"
@@ -6130,7 +6130,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-02-21 04:54:55.856095",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/755.jpg"
@@ -6247,7 +6247,7 @@
   "pubdate": "2020-06-13",
   "date_added": "2025-02-26 06:22:20.955457",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/765.jpg"
@@ -6273,7 +6273,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/767.jpg"
@@ -6286,7 +6286,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/768.jpg"
@@ -6299,7 +6299,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/769.jpg"
@@ -6312,7 +6312,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/770.jpg"
@@ -6325,7 +6325,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/771.jpg"
@@ -6338,7 +6338,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/772.jpg"
@@ -6351,7 +6351,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/773.jpg"
@@ -6364,7 +6364,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/774.jpg"
@@ -6377,7 +6377,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-01-02 16:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，英語世界資料有限",
   "reading_status": "",
   "cover": "covers/775.jpg"
@@ -6598,7 +6598,7 @@
   "pubdate": "2025-02-06",
   "date_added": "2025-01-03 02:13:48.748000",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日本學術出版，英語世界資料有限，無法充分評估 │",
   "reading_status": "",
   "cover": "covers/796.jpg"
@@ -6819,7 +6819,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2025-05-13 05:13:15.501153",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，英語世界資料有限",
   "reading_status": "",
   "cover": "covers/845.jpg"
@@ -7065,8 +7065,8 @@
   "tags": "#中譯、1. fiction",
   "pubdate": "2022-12-31",
   "date_added": "2025-05-30 11:45:23.035976",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "日文原創作品，英語世界無相關評價資源，無法評估。",
   "reading_status": "read",
   "cover": "covers/916.jpg"
@@ -7182,8 +7182,8 @@
   "tags": "#台版、1. fiction",
   "pubdate": "0101-01-01",
   "date_added": "2025-05-30 11:46:48.599246",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "東亞原創作品，英語世界無評價資源。",
   "reading_status": "DNF",
   "cover": "covers/928.jpg"
@@ -7404,7 +7404,7 @@
   "pubdate": "2025-04-14",
   "date_added": "2025-06-09 01:30:31.507887",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "skim",
   "cover": "covers/956.jpg"
@@ -8209,8 +8209,8 @@
   "tags": "紙本書、3. language",
   "pubdate": "0101-01-01",
   "date_added": "0101-01-01 00:00:00",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "韓文原創作品，無英語世界評價資料",
   "reading_status": "",
   "cover": "covers/1038.jpg"
@@ -8235,8 +8235,8 @@
   "tags": "紙本書、3. language",
   "pubdate": "0101-01-01",
   "date_added": "0101-01-01 00:00:00",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "日文原創，無英語世界評價資料",
   "reading_status": "",
   "cover": "covers/1040.jpg"
@@ -8287,8 +8287,8 @@
   "tags": "紙本書、3. language",
   "pubdate": "0101-01-01",
   "date_added": "0101-01-01 00:00:00",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "日文原創，無英語世界評價資料",
   "reading_status": "",
   "cover": "covers/1044.jpg"
@@ -8300,8 +8300,8 @@
   "tags": "紙本書、3. language",
   "pubdate": "0101-01-01",
   "date_added": "0101-01-01 00:00:00",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "中文原創，無英語世界評價資料",
   "reading_status": "",
   "cover": "covers/1045.jpg"
@@ -8652,7 +8652,7 @@
   "pubdate": "0101-01-01",
   "date_added": "0101-01-01 00:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/1072.jpg"
@@ -9213,7 +9213,7 @@
   "quality_rating": null,
   "rating_label": "村上紀行散文",
   "key_review": "村上春樹的希臘、土耳其旅行紀行散文，記錄他造訪聖山阿索斯與土耳其的所見所聞",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1115.jpg"
  },
  {
@@ -9291,7 +9291,7 @@
   "quality_rating": null,
   "rating_label": "村上紀實短篇集",
   "key_review": "村上春樹以真實訪談為基礎改寫的短篇集，記錄各種人物的生命片段，風格介於小說與紀實之間",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1121.jpg"
  },
  {
@@ -9317,7 +9317,7 @@
   "quality_rating": null,
   "rating_label": "村上短篇代表作",
   "key_review": "村上春樹以1995年阪神大地震為背景的短篇小說集，描寫地震陰影下人物的心理狀態",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1123.jpg"
  },
  {
@@ -9330,7 +9330,7 @@
   "quality_rating": null,
   "rating_label": "村上生活散文",
   "key_review": "村上春樹的生活隨筆集，以輕鬆筆調談日常瑣事與觀察，「收音機」系列散文代表作",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1124.jpg"
  },
  {
@@ -9369,7 +9369,7 @@
   "quality_rating": null,
   "rating_label": "村上長篇代表作",
   "key_review": "《發條鳥年代記》英文版，村上春樹轉向歷史/社會議題書寫的重要長篇代表作",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1127.jpg"
  },
  {
@@ -9382,7 +9382,7 @@
   "quality_rating": null,
   "rating_label": "村上經典代表作",
   "key_review": "《挪威的森林》英文版，1987年出版的青春愛情小說，奠定村上國際聲望的代表作",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1128.jpg"
  },
  {
@@ -9421,7 +9421,7 @@
   "quality_rating": null,
   "rating_label": "村上音樂散文",
   "key_review": "村上春樹分享私房音樂選曲與聆樂心得的隨筆集，展現他對爵士與古典樂的深厚涉獵",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1131.jpg"
  },
  {
@@ -9460,7 +9460,7 @@
   "quality_rating": null,
   "rating_label": "村上深度訪談錄",
   "key_review": "作家川上未映子對村上春樹的長篇訪談集，深入探討其創作方法與小說世界觀",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1134.jpg"
  },
  {
@@ -9473,7 +9473,7 @@
   "quality_rating": null,
   "rating_label": "村上長篇代表作",
   "key_review": "《海邊的卡夫卡》英文版，描寫少年離家追尋自我與命運的奇幻成長故事，村上重要代表作",
-  "reading_status": "read",
+  "reading_status": "",
   "cover": "covers/1135.jpg"
  },
  {
@@ -10979,7 +10979,7 @@
   "pubdate": "0101-01-01",
   "date_added": "0101-01-01 00:00:00",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/1254.jpg"
@@ -11369,7 +11369,7 @@
   "pubdate": "2023-04-14",
   "date_added": "2025-07-28 04:01:32.859814",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/1286.jpg"
@@ -12239,8 +12239,8 @@
   "tags": "#中譯、3. language",
   "pubdate": "2011-04-30",
   "date_added": "2025-10-15 10:23:38.407501",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "中文原創，無英語世界評價資料",
   "reading_status": "",
   "cover": "covers/1370.jpg"
@@ -12253,7 +12253,7 @@
   "pubdate": "2018-12-15",
   "date_added": "2025-10-15 10:23:38.441607",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "日文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/1371.jpg"
@@ -13215,7 +13215,7 @@
   "pubdate": "2022-04-04",
   "date_added": "2025-11-21 10:50:14.796180",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/1469.jpg"
@@ -13228,7 +13228,7 @@
   "pubdate": "2022-04-21",
   "date_added": "2025-11-21 10:54:17.880695",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "",
   "cover": "covers/1471.jpg"
@@ -13397,7 +13397,7 @@
   "pubdate": "2018-07-14",
   "date_added": "2026-01-12 08:51:45.036879",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，面向 IB 中文教學，無法以英語學術資源評估",
   "reading_status": "skim",
   "cover": "covers/1487.jpg"
@@ -13565,8 +13565,8 @@
   "tags": "#中譯、1. fiction",
   "pubdate": "2022-06-03",
   "date_added": "2026-01-16 05:21:50.820000",
-  "quality_rating": 1.0,
-  "rating_label": "無法評估",
+  "quality_rating": null,
+  "rating_label": "",
   "key_review": "日文原創推理小說，英語世界無評價資源。",
   "reading_status": "read",
   "cover": "covers/1500.jpg"
@@ -13644,7 +13644,7 @@
   "pubdate": "2025-06-02",
   "date_added": "2026-01-28 04:07:43.784585",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "韓文原創作品，英語世界無評價資源。",
   "reading_status": "",
   "cover": "covers/1507.jpg"
@@ -13657,7 +13657,7 @@
   "pubdate": "2025-06-26",
   "date_added": "2026-01-28 04:07:47.032649",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創作品，無法以英語學術資源評估",
   "reading_status": "DNF",
   "cover": "covers/1508.jpg"
@@ -14060,7 +14060,7 @@
   "pubdate": "0101-01-01",
   "date_added": "2026-03-16 08:19:33.051189",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "韓國當代重要作家，多項韓國文學獎，但此書為 2024 韓文新作，尚無英譯",
   "reading_status": "",
   "cover": "covers/1544.jpg"
@@ -14216,7 +14216,7 @@
   "pubdate": "2026-03-18",
   "date_added": "2026-03-24 08:06:02.769724",
   "quality_rating": null,
-  "rating_label": "無法評估",
+  "rating_label": "",
   "key_review": "中文原創哲學譯作精選集，作者為中國海德格爾研究權威，英語學界無對應評價體系",
   "reading_status": "",
   "cover": "covers/1556.jpg"
