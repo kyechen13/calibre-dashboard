@@ -39,13 +39,21 @@ function populateFilterOptions() {
   }
 
   const statuses = new Set();
+  let hasBlank = false;
   for (const b of allBooks) {
     if (b.reading_status) statuses.add(b.reading_status);
+    else hasBlank = true;
   }
   for (const s of [...statuses].sort()) {
     const opt = document.createElement("option");
     opt.value = s;
     opt.textContent = s;
+    filterStatus.appendChild(opt);
+  }
+  if (hasBlank) {
+    const opt = document.createElement("option");
+    opt.value = "__blank__";
+    opt.textContent = "(未標記)";
     filterStatus.appendChild(opt);
   }
 }
@@ -63,7 +71,11 @@ function matchesFilters(b) {
 
   if (filterTag.value && !splitTags(b.tags).includes(filterTag.value)) return false;
 
-  if (filterStatus.value && b.reading_status !== filterStatus.value) return false;
+  if (filterStatus.value === "__blank__") {
+    if (b.reading_status) return false;
+  } else if (filterStatus.value && b.reading_status !== filterStatus.value) {
+    return false;
+  }
 
   return true;
 }
