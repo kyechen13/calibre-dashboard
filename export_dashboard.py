@@ -7,6 +7,7 @@
 封面縮圖只會幫「還沒產生過縮圖」的新書產生，不會重新處理整個書庫，加快重複執行的速度。
 """
 
+import csv
 import json
 import sqlite3
 import subprocess
@@ -18,6 +19,8 @@ DB_PATH = LIBRARY_PATH / "metadata.db"
 DASHBOARD_DIR = Path(__file__).parent
 COVERS_DIR = DASHBOARD_DIR / "covers"
 JSON_PATH = DASHBOARD_DIR / "library.json"
+AI_CSV_PATH = DASHBOARD_DIR / "library_for_ai.csv"
+AI_CSV_FIELDS = ["title", "authors", "tags", "quality_rating", "rating_label", "key_review", "date_added"]
 THUMB_MAX_DIM = 240
 
 QUERY = """
@@ -93,6 +96,13 @@ def main():
     JSON_PATH.write_text(json.dumps(books, ensure_ascii=False, indent=1), encoding="utf-8")
     print(f"匯出 {len(books)} 本書到 {JSON_PATH}")
     print(f"新產生 {new_thumbs} 張封面縮圖到 {COVERS_DIR}")
+
+    with AI_CSV_PATH.open("w", encoding="utf-8", newline="") as f:
+        writer = csv.DictWriter(f, fieldnames=AI_CSV_FIELDS)
+        writer.writeheader()
+        for book in books:
+            writer.writerow({k: book[k] for k in AI_CSV_FIELDS})
+    print(f"匯出精簡版（給 AI 讀取用）到 {AI_CSV_PATH}")
 
 
 if __name__ == "__main__":
