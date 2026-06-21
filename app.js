@@ -77,7 +77,7 @@ function applyFilters() {
 
 function render(books) {
   grid.innerHTML = "";
-  count.textContent = `${books.length} 本`;
+  count.textContent = `${books.length} books`;
   for (const b of books) {
     const card = document.createElement("div");
     card.className = "card";
@@ -104,8 +104,8 @@ function openModal(b) {
   document.getElementById("modal-rating").textContent = stars(b.quality_rating);
   document.getElementById("modal-label").textContent = b.rating_label;
   document.getElementById("modal-review").textContent = b.key_review;
-  document.getElementById("modal-tags").textContent = b.tags ? `標籤：${b.tags}` : "";
-  document.getElementById("modal-pubdate").textContent = b.date_added ? `加入日期：${b.date_added.slice(0, 10)}` : "";
+  document.getElementById("modal-tags").textContent = b.tags ? `Tags: ${b.tags}` : "";
+  document.getElementById("modal-pubdate").textContent = b.date_added ? `Added: ${b.date_added.slice(0, 10)}` : "";
   modalBackdrop.classList.remove("hidden");
 }
 

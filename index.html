@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="zh-Hant">
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -8,26 +8,26 @@
 </head>
 <body>
 <header>
-  <h1>📚 Bibliothèque</h1>
-  <input id="search" type="search" placeholder="搜尋書名、作者、標籤…" autocomplete="off">
+  <h1>Bibliothèque</h1>
+  <input id="search" type="search" placeholder="Search title, author, tag…" autocomplete="off">
 
   <div id="filters">
     <select id="filter-tag">
-      <option value="">標籤：全部</option>
+      <option value="">Tag: All</option>
     </select>
 
     <select id="sort-key">
-      <option value="date_added">排序：新增日期</option>
-      <option value="quality_rating">排序：評分</option>
-      <option value="authors">排序：作者</option>
+      <option value="date_added">Sort: Date added</option>
+      <option value="quality_rating">Sort: Rating</option>
+      <option value="authors">Sort: Author</option>
     </select>
 
     <select id="sort-dir">
-      <option value="desc">新→舊／高→低／Z→A</option>
-      <option value="asc">舊→新／低→高／A→Z</option>
+      <option value="desc">New→Old / High→Low / Z→A</option>
+      <option value="asc">Old→New / Low→High / A→Z</option>
     </select>
 
-    <button id="filter-reset">重設</button>
+    <button id="filter-reset">Reset</button>
   </div>
 
   <div id="count"></div>
