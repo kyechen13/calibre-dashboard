@@ -3,6 +3,7 @@
 body {
   margin: 0;
   font-family: "JetBrains Mono", -apple-system, "PingFang TC", "Noto Sans TC", sans-serif;
+  font-weight: 300;
   background: #16181d;
   color: #eee;
 }
@@ -29,6 +30,7 @@ header h1 {
   background: #22252b;
   color: #eee;
   font-family: "JetBrains Mono", monospace;
+  font-weight: 300;
   font-size: 1rem;
 }
 
@@ -55,6 +57,7 @@ header h1 {
   background: #22252b;
   color: #eee;
   font-family: "JetBrains Mono", monospace;
+  font-weight: 300;
   font-size: 0.82rem;
 }
 
@@ -89,14 +92,16 @@ header h1 {
   align-items: center;
   justify-content: center;
   text-align: center;
-  font-family: "Libre Baskerville", "Noto Serif TC", serif;
+  font-family: "Inter", "Noto Sans TC", sans-serif;
+  font-weight: 300;
   font-size: 0.75rem;
   padding: 6px;
   color: #aaa;
 }
 
 .card .title {
-  font-family: "Libre Baskerville", "Noto Serif TC", serif;
+  font-family: "Inter", "Noto Sans TC", sans-serif;
+  font-weight: 300;
   font-size: 0.78rem;
   margin-top: 6px;
   line-height: 1.3;
@@ -144,6 +149,8 @@ header h1 {
   background: none;
   border: none;
   color: #eee;
+  font-family: "JetBrains Mono", monospace;
+  font-weight: 300;
   font-size: 1.2rem;
   cursor: pointer;
 }
@@ -156,12 +163,15 @@ header h1 {
 }
 
 #modal-title {
-  font-family: "Libre Baskerville", "Noto Serif TC", serif;
+  font-family: "Inter", "Noto Sans TC", sans-serif;
+  font-weight: 300;
   font-size: 1.1rem;
   margin: 0 0 4px;
 }
 
 #modal-info p {
+  font-family: "Inter", "Noto Sans TC", sans-serif;
+  font-weight: 300;
   margin: 4px 0;
   font-size: 0.9rem;
   color: #ccc;
