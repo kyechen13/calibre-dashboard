@@ -20,7 +20,7 @@ DASHBOARD_DIR = Path(__file__).parent
 COVERS_DIR = DASHBOARD_DIR / "covers"
 JSON_PATH = DASHBOARD_DIR / "library.json"
 AI_CSV_PATH = DASHBOARD_DIR / "library_for_ai.csv"
-AI_CSV_FIELDS = ["title", "authors", "tags", "quality_rating", "rating_label", "key_review", "date_added"]
+AI_CSV_FIELDS = ["title", "authors", "tags", "quality_rating", "rating_label", "key_review", "reading_status", "date_added"]
 THUMB_MAX_DIM = 240
 
 QUERY = """
@@ -40,7 +40,9 @@ SELECT
     (SELECT cc.value FROM books_custom_column_14_link l
         JOIN custom_column_14 cc ON cc.id = l.value WHERE l.book = b.id) AS rating_label,
     (SELECT cc.value FROM books_custom_column_15_link l
-        JOIN custom_column_15 cc ON cc.id = l.value WHERE l.book = b.id) AS key_review
+        JOIN custom_column_15 cc ON cc.id = l.value WHERE l.book = b.id) AS key_review,
+    (SELECT cc.value FROM books_custom_column_6_link l
+        JOIN custom_column_6 cc ON cc.id = l.value WHERE l.book = b.id) AS reading_status
 FROM books b
 ORDER BY b.id
 """
@@ -90,6 +92,7 @@ def main():
             "quality_rating": (quality_rating / 2) if quality_rating else None,
             "rating_label": row["rating_label"] or "",
             "key_review": row["key_review"] or "",
+            "reading_status": row["reading_status"] or "",
             "cover": cover_file,
         })
 

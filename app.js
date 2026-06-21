@@ -6,6 +6,7 @@ const count = document.getElementById("count");
 const modalBackdrop = document.getElementById("modal-backdrop");
 
 const filterTag = document.getElementById("filter-tag");
+const filterStatus = document.getElementById("filter-status");
 const sortKey = document.getElementById("sort-key");
 const sortDir = document.getElementById("sort-dir");
 const filterReset = document.getElementById("filter-reset");
@@ -35,6 +36,17 @@ function populateFilterOptions() {
     opt.textContent = t;
     filterTag.appendChild(opt);
   }
+
+  const statuses = new Set();
+  for (const b of allBooks) {
+    if (b.reading_status) statuses.add(b.reading_status);
+  }
+  for (const s of [...statuses].sort()) {
+    const opt = document.createElement("option");
+    opt.value = s;
+    opt.textContent = s;
+    filterStatus.appendChild(opt);
+  }
 }
 
 function matchesFilters(b) {
@@ -49,6 +61,8 @@ function matchesFilters(b) {
   }
 
   if (filterTag.value && !splitTags(b.tags).includes(filterTag.value)) return false;
+
+  if (filterStatus.value && b.reading_status !== filterStatus.value) return false;
 
   return true;
 }
@@ -105,6 +119,7 @@ function openModal(b) {
   document.getElementById("modal-label").textContent = b.rating_label;
   document.getElementById("modal-review").textContent = b.key_review;
   document.getElementById("modal-tags").textContent = b.tags ? `Tags: ${b.tags}` : "";
+  document.getElementById("modal-status").textContent = b.reading_status ? `Status: ${b.reading_status}` : "";
   document.getElementById("modal-pubdate").textContent = b.date_added ? `Added: ${b.date_added.slice(0, 10)}` : "";
   modalBackdrop.classList.remove("hidden");
 }
@@ -118,12 +133,14 @@ modalBackdrop.addEventListener("click", (e) => {
 
 search.addEventListener("input", applyFilters);
 filterTag.addEventListener("change", applyFilters);
+filterStatus.addEventListener("change", applyFilters);
 sortKey.addEventListener("change", applyFilters);
 sortDir.addEventListener("change", applyFilters);
 
 filterReset.addEventListener("click", () => {
   search.value = "";
   filterTag.value = "";
+  filterStatus.value = "";
   sortKey.value = "date_added";
   sortDir.value = "desc";
   applyFilters();
