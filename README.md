@@ -1,4 +1,4 @@
-# 我的書庫 Dashboard
+# Bibliothèque
 
 封面牆瀏覽：https://kyechen13.github.io/calibre-dashboard/
 
