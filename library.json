@@ -42,20 +42,6 @@
   "cover": "covers/8.jpg"
  },
  {
-  "id": 10,
-  "title": "The Millionaire Fastlane",
-  "authors": "M.J. DeMarco",
-  "tags": "#中譯、3. money",
-  "pubdate": "2021-05-31",
-  "date_added": "2022-08-21 10:13:08.540112",
-  "quality_rating": 2.0,
-  "rating_label": "小眾自出版",
-  "key_review": "同《百萬富翁快車道》英文版，創業圈流行但非主流認可",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/10.jpg"
- },
- {
   "id": 11,
   "title": "一切從目標開始",
   "authors": "水野學",
@@ -328,8 +314,8 @@
   "tags": "#台版、2. monde",
   "pubdate": "0101-01-01",
   "date_added": "2022-09-27 07:51:31.678699",
-  "quality_rating": 2.0,
-  "rating_label": "日本作品",
+  "quality_rating": 3.0,
+  "rating_label": "會計史普及佳作",
   "key_review": "日本會計師，會計史普及，英語世界認知有限",
   "confidence": "推測",
   "reading_status": "",
@@ -874,8 +860,8 @@
   "tags": "#台版、2. monde、2. monde/Taiwan",
   "pubdate": "2020-10-06",
   "date_added": "2023-04-10 11:47:56.252211",
-  "quality_rating": 2.0,
-  "rating_label": "台灣作品",
+  "quality_rating": 4.0,
+  "rating_label": "台灣生活史重要著作",
   "key_review": "台灣日治時期生活史，本土史料價值高，英語世界認知有限",
   "confidence": "推測",
   "reading_status": "",
@@ -978,20 +964,6 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/122.jpg"
- },
- {
-  "id": 123,
-  "title": "防彈成功法則",
-  "authors": "Dave Asprey",
-  "tags": "#台版、4. self-dev",
-  "pubdate": "2019-10-03",
-  "date_added": "2023-04-11 17:58:17.949475",
-  "quality_rating": 2.0,
-  "rating_label": "爭議作品",
-  "key_review": "原名 Game Changers，Bulletproof 創辦人，流行但學術界評價不高",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/123.jpg"
  },
  {
   "id": 124,
@@ -1518,8 +1490,8 @@
   "tags": "#台版、1. bio",
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 12:31:27.490705",
-  "quality_rating": 2.0,
-  "rating_label": "中文作品",
+  "quality_rating": 5.0,
+  "rating_label": "中文傳記經典",
   "key_review": "台灣學者蘇東坡傳記，中文學術作品，英語世界認知有限",
   "confidence": "推測",
   "reading_status": "",
@@ -2848,8 +2820,8 @@
   "tags": "#台版、2. philosophy、2. monde、2. monde/Taiwan",
   "pubdate": "0101-01-01",
   "date_added": "2024-05-24 13:21:24.940319",
-  "quality_rating": 2.0,
-  "rating_label": "小眾作品",
+  "quality_rating": 3.0,
+  "rating_label": "外國作家台灣觀察",
   "key_review": "德國作家 Stephan Thome，外國人視角看台灣，英語世界認知有限",
   "confidence": "推測",
   "reading_status": "",
@@ -3310,8 +3282,8 @@
   "tags": "#中譯、1. fiction",
   "pubdate": "0101-01-01",
   "date_added": "2024-05-30 07:29:14.087000",
-  "quality_rating": 2.0,
-  "rating_label": "小眾特定用途",
+  "quality_rating": 4.0,
+  "rating_label": "作家隨筆佳作",
   "key_review": "DFW網球隨筆集，非其主要文學作品。原書名：String Theory",
   "confidence": "推測",
   "reading_status": "",
@@ -4872,20 +4844,6 @@
   "cover": "covers/496.jpg"
  },
  {
-  "id": 497,
-  "title": "在深夜遇見薩古魯：印度聖哲的內在喜悅工程",
-  "authors": "Sadhguru Jaggi Vasudev",
-  "tags": "#台版、2. mind",
-  "pubdate": "2020-06-18",
-  "date_added": "2024-07-06 07:22:52.716827",
-  "quality_rating": 2.0,
-  "rating_label": "靈性暢銷",
-  "key_review": "印度瑜伽大師著作",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/497.jpg"
- },
- {
   "id": 498,
   "title": "圖書館生滅史",
   "authors": "Andrew Pettegree| Arthur der Weduwen",
@@ -4940,20 +4898,6 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/501.jpg"
- },
- {
-  "id": 502,
-  "title": "我只能這樣嗎？：讓你從谷底翻身的七大生活原則，預約自己的理想人生",
-  "authors": "Daniel Chidiac",
-  "tags": "#台版、2. mind",
-  "pubdate": "2019-04-09",
-  "date_added": "2024-07-06 07:22:53.427680",
-  "quality_rating": 2.0,
-  "rating_label": "小眾自助",
-  "key_review": "澳洲作家勵志書",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/502.jpg"
  },
  {
   "id": 503,
@@ -5234,20 +5178,6 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/582.jpg"
- },
- {
-  "id": 583,
-  "title": "薩古魯談業力：一個瑜伽士關於改變命運的教導",
-  "authors": "Sadhguru Jaggi Vasudev",
-  "tags": "#台版、2. mind",
-  "pubdate": "0101-01-01",
-  "date_added": "2024-07-26 05:08:20.958236",
-  "quality_rating": 2.0,
-  "rating_label": "靈性暢銷",
-  "key_review": "印度瑜伽大師業力論述",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/583.jpg"
  },
  {
   "id": 584,
@@ -6572,8 +6502,8 @@
   "tags": "#台版、1. bio",
   "pubdate": "2024-12-27",
   "date_added": "2025-02-21 06:10:17.409699",
-  "quality_rating": 2.0,
-  "rating_label": "韓文作品",
+  "quality_rating": 3.0,
+  "rating_label": "時效性企業研究",
   "key_review": "韓國作者輝達研究，英語世界認知有限",
   "confidence": "推測",
   "reading_status": "",
@@ -7922,20 +7852,6 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/958.jpg"
- },
- {
-  "id": 959,
-  "title": "French Learn the Easy Way",
-  "authors": "Jacques Boucher",
-  "tags": "3. language、#原文書",
-  "pubdate": "0101-01-01",
-  "date_added": "2025-06-15 07:19:48.731768",
-  "quality_rating": 2.0,
-  "rating_label": "小眾特定",
-  "key_review": "原書 French. Learn the Easy Way，自出版小眾法語入門書，知名度低",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/959.jpg"
  },
  {
   "id": 960,
@@ -13264,8 +13180,8 @@
   "tags": "#中譯、1. fiction",
   "pubdate": "2020-04-30",
   "date_added": "2025-10-27 04:24:15.686833",
-  "quality_rating": 2.0,
-  "rating_label": "小眾特定用途",
+  "quality_rating": 4.0,
+  "rating_label": "當代實驗文學佳作",
   "key_review": "NYT Book Review編輯推薦，風格獨特但屬小眾實驗性文學小說。原書名：Silence Once Begun",
   "confidence": "推測",
   "reading_status": "",
@@ -14336,20 +14252,6 @@
   "cover": "covers/1490.jpg"
  },
  {
-  "id": 1491,
-  "title": "全能學習法：什麼都能學，什麼都能精",
-  "authors": "Peter Hollins",
-  "tags": "#中譯、2. methodology",
-  "pubdate": "2023-04-06",
-  "date_added": "2026-01-12 08:51:45.136523",
-  "quality_rating": 2.0,
-  "rating_label": "流行暢銷",
-  "key_review": "自助學習類暢銷書，缺乏原創研究與學術認可",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1491.jpg"
- },
- {
   "id": 1492,
   "title": "批評批評家",
   "authors": "T. S. Eliot",
@@ -15210,8 +15112,8 @@
   "tags": "#台版、2. methodology",
   "pubdate": "2012-02-13",
   "date_added": "2026-03-29 09:32:24.403176",
-  "quality_rating": 2.0,
-  "rating_label": "小眾作品",
+  "quality_rating": 3.0,
+  "rating_label": "寫作工具書",
   "key_review": "推理小說寫作技巧指南，推理圈口碑好但非文學經典，屬實用寫作工具書 (Telling Lies for Fun and Profit)",
   "confidence": "推測",
   "reading_status": "",
@@ -15316,20 +15218,6 @@
   "cover": "covers/1570.jpg"
  },
  {
-  "id": 1574,
-  "title": "The Book of Elon",
-  "authors": "Eric Jorgenson",
-  "tags": "#中譯、1. bio",
-  "pubdate": "0101-01-01",
-  "date_added": "2026-03-30 09:04:52.414059",
-  "quality_rating": 2.0,
-  "rating_label": "衍生/綜合作品",
-  "key_review": "仿效 Naval 語錄集模式彙編，無學術原創性，屬個人品牌延伸出版品",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1574.jpg"
- },
- {
   "id": 1575,
   "title": "信任",
   "authors": "Hernan Diaz",
@@ -15384,20 +15272,6 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1578.jpg"
- },
- {
-  "id": 1579,
-  "title": "迷宮：一場存在主義歷險",
-  "authors": "Ben Argon",
-  "tags": "#中譯",
-  "pubdate": "0101-01-01",
-  "date_added": "2026-04-10 04:07:14.704960",
-  "quality_rating": 2.0,
-  "rating_label": "小眾作品",
-  "key_review": "英語世界評論資源有限，無重要獎項或學術認可紀錄",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1579.jpg"
  },
  {
   "id": 1581,
@@ -15690,7 +15564,7 @@
   "rating_label": "流行暢銷",
   "key_review": "全球銷量逾 1200 萬冊，歐洲年度暢銷書，但文學與學術評價極低",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "read",
   "cover": "covers/1606.jpg"
  },
  {
@@ -16252,20 +16126,6 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1656.jpg"
- },
- {
-  "id": 1657,
-  "title": "不想上班的日子就讀卡夫卡",
-  "authors": "金南今",
-  "tags": "#台版",
-  "pubdate": "2025-07-28",
-  "date_added": "2026-06-20 08:20:17.985269",
-  "quality_rating": 2.0,
-  "rating_label": "普及讀物",
-  "key_review": "韓國作家以卡夫卡為引子寫的職場療癒讀物，流行讀物性質，非學術經典",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1657.jpg"
  },
  {
   "id": 1658,
