@@ -16557,7 +16557,7 @@
   "quality_rating": 5.0,
   "rating_label": "學科經典",
   "key_review": "原書 The Rhetoric of Fiction（1961），敘事學奠基之作，提出「隱含作者」與「不可靠敘事者」",
-  "confidence": "確知",
+  "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1703.jpg"
  },
@@ -16571,7 +16571,7 @@
   "quality_rating": 5.0,
   "rating_label": "學科經典教科書",
   "key_review": "原書 Understanding Fiction（1943），新批評細讀法的標準教材",
-  "confidence": "確知",
+  "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1704.jpg"
  },
@@ -16616,5 +16616,75 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1707.jpg"
+ },
+ {
+  "id": 1709,
+  "title": "因為佩索亞，所以里斯本",
+  "authors": "Fernando Pessoa",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-07-13 05:00:43.468248",
+  "quality_rating": 3.0,
+  "rating_label": "名家小品",
+  "key_review": "原名 *Lisbon: What the Tourist Should See*，佩索亞 1925 年里斯本導覽遺稿，紀念價值大於著作地位",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1709.jpg"
+ },
+ {
+  "id": 1710,
+  "title": "夏季訪客",
+  "authors": "Tess Gerritsen",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-07-13 05:00:43.735189",
+  "quality_rating": 3.0,
+  "rating_label": "流行暢銷",
+  "key_review": "原名 *The Summer Guests*，馬丁尼俱樂部系列第二部，Amazon 編輯選書，暢銷懸疑非經典",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1710.jpg"
+ },
+ {
+  "id": 1711,
+  "title": "薛丁格：我的人生，我的世界觀",
+  "authors": "Erwin Schrödinger",
+  "tags": "城邦出版集團 商周出版",
+  "pubdate": "2023-08-08",
+  "date_added": "2026-07-13 05:00:43.924904",
+  "quality_rating": 4.0,
+  "rating_label": "科學家原典",
+  "key_review": "原名 *Mein Leben",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1711.jpg"
+ },
+ {
+  "id": 1712,
+  "title": "貿易打造的世界：社會、文化、世界經濟，從1400年到現在",
+  "authors": "Kenneth Pomeranz & Steven Topik",
+  "tags": "",
+  "pubdate": "2024-11-04",
+  "date_added": "2026-07-13 05:00:44.784753",
+  "quality_rating": 4.0,
+  "rating_label": "領域重要作品",
+  "key_review": "原名 *The World That Trade Created*，全球貿易史經典讀本，多次再版的世界史課程標準書",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1712.jpg"
+ },
+ {
+  "id": 1713,
+  "title": "富士見商店街的奇蹟日常",
+  "authors": "三浦紫苑",
+  "tags": "",
+  "pubdate": "2026-06-15",
+  "date_added": "2026-07-13 05:01:29.450262",
+  "quality_rating": 3.0,
+  "rating_label": "名家日常小說",
+  "key_review": "直木獎、本屋大賞作家 2026 台版新作，商店街溫暖日常小說，原書名未查得、尚無定評",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1713.jpg"
  }
 ]
