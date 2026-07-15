@@ -9579,7 +9579,7 @@
   "id": 1105,
   "title": "理想國篇——譯注與詮釋",
   "authors": "Plato",
-  "tags": "紙本書、📚fundamental reading list",
+  "tags": "#台版、紙本書、📚fundamental reading list",
   "pubdate": "0101-01-01",
   "date_added": "0101-01-01 00:00:00",
   "quality_rating": 5.0,
@@ -11525,7 +11525,7 @@
   "id": 1247,
   "title": "大亨小傳",
   "authors": "F. Scott Fitzgerald",
-  "tags": "1. fiction、紙本書、📚fundamental reading list",
+  "tags": "#台版、1. fiction、紙本書、📚fundamental reading list",
   "pubdate": "0101-01-01",
   "date_added": "0101-01-01 00:00:00",
   "quality_rating": 5.0,
@@ -14031,7 +14031,7 @@
   "id": 1475,
   "title": "哈羅德·布魯姆文學批評集（套裝共6冊）",
   "authors": "Harold Bloom",
-  "tags": "#中譯、📚文學導論、1. theorie litteraire",
+  "tags": "#中譯、1. theorie litteraire",
   "pubdate": "0101-01-01",
   "date_added": "2025-11-21 11:02:52.819638",
   "quality_rating": 5.0,
@@ -14731,7 +14731,7 @@
   "id": 1534,
   "title": "關鍵詞200：文學與批評研究的通用辭彙編",
   "authors": "廖炳惠",
-  "tags": "#中譯、紙本書、📚文學導論、#PDF、1. theorie litteraire",
+  "tags": "#中譯、紙本書、#PDF、1. theorie litteraire",
   "pubdate": "0101-01-01",
   "date_added": "2026-03-02 04:31:52.716116",
   "quality_rating": 4.0,
@@ -16576,20 +16576,6 @@
   "cover": "covers/1706.jpg"
  },
  {
-  "id": 1707,
-  "title": "看書超快的人腦子裡裝的是什麼謎案",
-  "authors": "白井智之",
-  "tags": "#中譯、1. fiction",
-  "pubdate": "0101-01-01",
-  "date_added": "2026-07-05 06:04:22.082496",
-  "quality_rating": 3.0,
-  "rating_label": "名家新作",
-  "key_review": "原書『本を読むのが超速い人の頭の中ってどうなってんの殺人事件』2026 年新作，尚無定評",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1707.jpg"
- },
- {
   "id": 1709,
   "title": "因為佩索亞，所以里斯本",
   "authors": "Fernando Pessoa",
@@ -16658,5 +16644,19 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1713.jpg"
+ },
+ {
+  "id": 1714,
+  "title": "狼廳三部曲",
+  "authors": "Hilary Mantel",
+  "tags": "",
+  "pubdate": "2023-10-31",
+  "date_added": "2026-07-15 07:54:08.617771",
+  "quality_rating": 5.0,
+  "rating_label": "當代經典",
+  "key_review": "原名 *Wolf Hall* 三部曲，《狼廳》《提堂》各獲 2009、2012 布克獎，當代歷史小說巔峰",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1714.jpg"
  }
 ]
