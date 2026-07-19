@@ -77,6 +77,9 @@ header h1 {
   cursor: pointer;
   display: flex;
   flex-direction: column;
+  /* 畫面外的卡片跳過排版與繪製，捲到才算 */
+  content-visibility: auto;
+  contain-intrinsic-size: 110px 230px;
 }
 
 .card img, .card .no-cover {

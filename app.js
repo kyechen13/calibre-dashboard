@@ -80,6 +80,8 @@ function matchesFilters(b) {
   return true;
 }
 
+const collator = new Intl.Collator("zh-Hant");
+
 function sortBooks(books) {
   const key = sortKey.value;
   const dir = sortDir.value === "asc" ? 1 : -1;
@@ -93,7 +95,7 @@ function sortBooks(books) {
     }
     va = (va || "").toString();
     vb = (vb || "").toString();
-    return va.localeCompare(vb, "zh-Hant") * dir;
+    return collator.compare(va, vb) * dir;
   });
 }
 
@@ -110,23 +112,52 @@ function escapeHtml(s) {
   }[c]));
 }
 
+function cardHtml(b) {
+  const title = escapeHtml(b.title);
+  const img = b.cover
+    ? `<img src="${b.cover}" alt="" loading="lazy">`
+    : `<div class="no-cover">${title}</div>`;
+  return `
+    <div class="card" data-id="${b.id}">
+      ${img}
+      <div class="title">${title}</div>
+      <div class="stars">${stars(b.quality_rating)}</div>
+    </div>
+  `;
+}
+
+// 分批渲染：一次只畫 CHUNK 張卡片，捲到底再補下一批
+const CHUNK = 120;
+let renderList = [];
+let renderedCount = 0;
+
+const sentinel = document.createElement("div");
+sentinel.id = "scroll-sentinel";
+
+function appendChunk() {
+  const next = renderList.slice(renderedCount, renderedCount + CHUNK);
+  if (!next.length) return;
+  renderedCount += next.length;
+  grid.insertAdjacentHTML("beforeend", next.map(cardHtml).join(""));
+  if (renderedCount < renderList.length) {
+    grid.after(sentinel);
+  } else {
+    sentinel.remove();
+  }
+}
+
+const observer = new IntersectionObserver((entries) => {
+  if (entries.some(e => e.isIntersecting)) appendChunk();
+}, { rootMargin: "1000px" });
+observer.observe(sentinel);
+
 function render(books) {
   count.textContent = `${books.length} books`;
   booksById = new Map(books.map(b => [b.id, b]));
-
-  grid.innerHTML = books.map(b => {
-    const title = escapeHtml(b.title);
-    const img = b.cover
-      ? `<img src="${b.cover}" alt="" loading="lazy">`
-      : `<div class="no-cover">${title}</div>`;
-    return `
-      <div class="card" data-id="${b.id}">
-        ${img}
-        <div class="title">${title}</div>
-        <div class="stars">${stars(b.quality_rating)}</div>
-      </div>
-    `;
-  }).join("");
+  renderList = books;
+  renderedCount = 0;
+  grid.innerHTML = "";
+  appendChunk();
 }
 
 grid.addEventListener("click", (e) => {
@@ -157,7 +188,12 @@ modalBackdrop.addEventListener("click", (e) => {
   if (e.target === modalBackdrop) modalBackdrop.classList.add("hidden");
 });
 
-search.addEventListener("input", applyFilters);
+// 打字防抖：停止輸入 150ms 後才重新過濾，避免每個字都重畫
+let searchTimer;
+search.addEventListener("input", () => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(applyFilters, 150);
+});
 filterTag.addEventListener("change", applyFilters);
 filterStatus.addEventListener("change", applyFilters);
 sortKey.addEventListener("change", applyFilters);
