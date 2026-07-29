@@ -13996,7 +13996,7 @@
   "rating_label": "閱讀普及",
   "key_review": "羅振宇閱讀方法，知識服務性質",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "DNF",
   "cover": "covers/1471.jpg"
  },
  {
@@ -16654,9 +16654,9 @@
   "date_added": "2026-07-19 06:29:17.325860",
   "quality_rating": 3.0,
   "rating_label": "好評歷史小說",
-  "key_review": "原名 *Gutenberg's Apprentice*，古騰堡印刷術題材歷史小說處女作，書評正面但非經典",
+  "key_review": "看了快五分之一",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "DNF",
   "cover": "covers/1716.jpg"
  },
  {
@@ -16812,5 +16812,33 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1729.jpg"
+ },
+ {
+  "id": 1737,
+  "title": "一九八四",
+  "authors": "George Orwell",
+  "tags": "",
+  "pubdate": "2013-08-02",
+  "date_added": "2026-07-29 02:26:59.918130",
+  "quality_rating": 5.0,
+  "rating_label": "反烏托邦正典",
+  "key_review": "原名 *Nineteen Eighty-Four*，二十世紀反極權小說經典，Newspeak、Big Brother 已成通用詞彙，長期列入英美中學與大學必讀",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1737.jpg"
+ },
+ {
+  "id": 1738,
+  "title": "動物農莊",
+  "authors": "George Orwell",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-07-29 02:27:00.420750",
+  "quality_rating": 5.0,
+  "rating_label": "政治寓言經典",
+  "key_review": "原名 *Animal Farm*，以農場寓言諷刺史達林主義，與《一九八四》並列歐威爾代表作，Time 百大英文小說、長期教材",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1738.jpg"
  }
 ]
