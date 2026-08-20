@@ -641,7 +641,7 @@ Typographic 文字排版設計系統,Kimberly Elam,3. aesthetic/design、紙本�
 字型之不思議,小林章,3. aesthetic/design、紙本書,4.0,字體名家隨筆,Monotype 字體總監小林章的字體文化名作,推測,,0101-01-01 00:00:00
 Just My Type,Simon Garfield,3. aesthetic/design、紙本書,3.0,字體大眾科普,原名 Just My Type，字體故事暢銷書,推測,,0101-01-01 00:00:00
 西藏旅行記,河口慧海 (Ekai Kawaguchi),紙本書、1. non-fiction/散文,3.0,暢銷好評,原書 Three Years in Tibet，1900年代初入藏紀錄，在藏學探險文獻中有歷史價值，但非該領域核心經典,推測,,0101-01-01 00:00:00
-人慈,Rutger Bregman,紙本書、1. non-fiction/紀實,4.0,歷史佳作,Sunday Times/NYT 暢銷書，Timothy Snyder（《暴政》作者）推薦，人性本善的歷史論證,推測,,0101-01-01 00:00:00
+人慈,Rutger Bregman,1. non-fiction/紀實,4.0,歷史佳作,Sunday Times/NYT 暢銷書，Timothy Snyder（《暴政》作者）推薦，人性本善的歷史論證,推測,,0101-01-01 00:00:00
 愛的藝術,Erich Fromm,2. philosophy、紙本書,5.0,心理哲學經典,原名 The Art of Loving，1956 年出版，人本心理學與愛的哲學經典,推測,,0101-01-01 00:00:00
 再見，平庸世代,Tyler Cowen,#台版、紙本書、1. non-fiction/紀實,3.0,暢銷好評,知名經濟學者的趨勢預測書，有影響力但屬通俗經濟評論，非學術經典,推測,,0101-01-01 00:00:00
 閱讀地圖,Alberto Manguel,1. BoB、紙本書,5.0,閱讀史經典,A History of Reading (1996)，Prix Médicis Essai，TLS 年度好書,推測,,0101-01-01 00:00:00
@@ -721,7 +721,7 @@ Kafka on the Shore,村上春樹,紙本書,5.0,村上正典,Kafka on the Shore �
 一個年輕藝術家的畫像,James Joyce,紙本書,5.0,現代主義正典,原名 A Portrait of the Artist as a Young Man，喬伊斯正典,推測,,0101-01-01 00:00:00
 都柏林人,James Joyce,紙本書,5.0,現代主義正典,原名 Dubliners，短篇小說藝術的正典,推測,,0101-01-01 00:00:00
 在路上,Jack Kerouac,紙本書,5.0,垮世代正典,原名 On the Road，垮世代文學奠基經典,推測,,0101-01-01 00:00:00
-成為賈伯斯,Brent Schlender,紙本書,3.0,科技傳記,原名 Becoming Steve Jobs，圈內人推崇的賈伯斯傳,推測,,0101-01-01 00:00:00
+成為賈伯斯,Brent Schlender,,3.0,科技傳記,原名 Becoming Steve Jobs，圈內人推崇的賈伯斯傳,推測,,0101-01-01 00:00:00
 綠燈,Matthew McConaughey,紙本書,3.0,名人回憶錄,原名 Greenlights，麥康納回憶錄，暢銷好評,推測,,0101-01-01 00:00:00
 建築家安藤忠雄,安藤忠雄,紙本書,4.0,建築大師自傳,安藤忠雄自傳，建築人必讀的奮鬥記,推測,,0101-01-01 00:00:00
 窮查理的普通常識,Charles T. Munger,紙本書,4.0,投資思想經典,原名 Poor Charlie's Almanack，蒙格思想集，價值投資圈聖經,推測,,0101-01-01 00:00:00
@@ -745,7 +745,7 @@ Kafka on the Shore,村上春樹,紙本書,5.0,村上正典,Kafka on the Shore �
 質疑所謂理所當然的事,Christine Schulz-Reiss,紙本書,3.0,青少年知識讀物,德國青少年公民思辨讀物，普及向,推測,,0101-01-01 00:00:00
 正義：一場思辨之旅,Michael J. Sandel,紙本書,4.0,領域內重要作品,基於哈佛傳奇課程，政治哲學公共教育里程碑,推測,,0101-01-01 00:00:00
 令人神往的靜坐開悟,Robert Wright,紙本書,3.0,暢銷好評,暢銷科普哲學書，結合佛學與演化心理學，通俗讀物非學術著作,推測,,0101-01-01 00:00:00
-後真相,Lee McIntyre,紙本書,3.0,暢銷好評,MIT Press 出版，切合時事的哲學普及書，好評但非學術經典,推測,,0101-01-01 00:00:00
+後真相,Lee McIntyre,,3.0,暢銷好評,MIT Press 出版，切合時事的哲學普及書，好評但非學術經典,推測,,0101-01-01 00:00:00
 點子都是偷來的,Austin Kleon,紙本書,3.0,創意流行小書,原名 Steal Like an Artist，創意勵志現象級小書,推測,,0101-01-01 00:00:00
 點子就要秀出來,Austin Kleon,紙本書,3.0,創意流行小書,原名 Show Your Work!，分享創作方法小書,推測,,0101-01-01 00:00:00
 點子就是一直來,Austin Kleon,紙本書,3.0,創意流行小書,原名 Keep Going，創作續航小書,推測,,0101-01-01 00:00:00
@@ -753,7 +753,7 @@ Kafka on the Shore,村上春樹,紙本書,5.0,村上正典,Kafka on the Shore �
 批判性寫作,Jesse Liebman,2. methodology、紙本書,2.0,小眾/特定用途,針對高中生的寫作指南，實用工具書，無學術地位,推測,,0101-01-01 00:00:00
 創作是心靈療癒的旅程,Julia Cameron,紙本書,4.0,創作療癒經典,原名 The Artist's Way，藝術家之路，創作復元法定調書,推測,,0101-01-01 00:00:00
 我們安靜，我們成功,Susan Cain,紙本書,4.0,重要流行心理,原名 Quiet，內向者研究代表作，影響廣泛,推測,,0101-01-01 00:00:00
-心流,Mihaly Csikszentmihalyi,紙本書,5.0,心理學經典,原名 Flow，心流理論奠基之作，正向心理學正典,推測,,0101-01-01 00:00:00
+心流,Mihaly Csikszentmihalyi,,5.0,心理學經典,原名 Flow，心流理論奠基之作，正向心理學正典,推測,,0101-01-01 00:00:00
 心態致勝,Carol S. Dweck,紙本書,4.0,重要流行心理,原名 Mindset，成長心態理論代表作，影響教育界,推測,,0101-01-01 00:00:00
 全腦人生,Jill Bolte Taylor,紙本書,3.0,名家續作,原名 Whole Brain Living，前作光環下的續作,推測,,0101-01-01 00:00:00
 驚人習慣力,Stephen Guise,紙本書,3.0,習慣實用,原名 Mini Habits，微習慣策略，自出版實用佳作,推測,,0101-01-01 00:00:00
@@ -1172,7 +1172,7 @@ Benedictus: A Book Of Blessings,John O'Donohue,2. philosophy、#原文書,3.0,�
 黑色夏天殺人事件,麥克．克拉文,#台版、1. fiction,3.0,暢銷佳作,英國犯罪小說，Mike Craven 的 Avison Fluke 系列，英國類型小說市場好評,推測,read,2026-06-30 08:34:30.455628
 自我技術：福柯文選 III,Michel Foucault,#中譯、2. philosophy、#PDF,5.0,學科經典/正典,傅柯晚期重要文本，論自我治理與倫理技術，人文學科必讀 (*Technologies of the Self*),推測,,2026-06-30 08:34:30.971403
 歌德已道盡一切,鈴木結生,#中譯、1. fiction,4.0,芥川賞受賞作,鈴木結生《歌德已道盡一切》，2025 芥川賞受賞,推測,read,2026-06-30 08:34:31.213144
-盡頭的回憶,吉本芭娜娜,#台版、1. fiction,,日文原創（無法評估）,日本作家吉本芭娜娜作品，日文原創,推測,,2026-06-30 08:34:31.994726
+盡頭的回憶,吉本芭娜娜,#台版、1. fiction,3.0,名家短篇集,吉本芭娜娜自認最愛的短篇集，溫柔之作,推測,,2026-06-30 08:34:31.994726
 Artful Sentences: Syntax as Style,Virginia Tufte,1. BoB、#原文書,4.0,句法風格研究佳作,學者譽為句法風格研究權威之作，Stanley Fish、Marjorie Perloff等文評家高度讚譽,推測,,2026-07-03 04:52:02.529203
 Beginning Theory: An Introduction to Literary and Cultural Theory,Peter Barry,#原文書、📚文學導論、1. theorie litteraire,5.0,教科書標準/正典,英美文學理論課程標準教材逾20年，形塑理論教學方式（英文原版；書庫另有中文譯本 id:1292）,推測,reading,2026-07-03 04:52:02.784072
 "The Deluxe Transitive Vampire: A Handbook of Grammar for the Innocent, the Eager and the Doomed",Karen Elizabeth Gordon,1. BoB、#原文書,3.0,暢銷佳作/文法趣味經典,1984年出版，以哥德式故事包裝文法規則，長銷至今，NPR/Newsweek推薦,推測,,2026-07-03 04:52:03.044742
@@ -1192,8 +1192,8 @@ Odyssey,Homer,1. classic、#原文書、📚fundamental reading list,5.0,西方�
 我，克勞狄烏斯,Robert Graves,#中譯、1. fiction、📚fundamental reading list,5.0,20世紀經典,原名 *I,推測,,2026-07-19 06:29:17.455798
 植物的性、愛和生死的秘密,Ruth Kassinger,#台版、2. sociology/science,3.0,科普好書,原名 *A Garden of Marvels*，植物學科普，媒體好評但非領域經典,推測,,2026-07-19 06:29:17.725154
 分手去旅行,Andrew Sean Greer,#台版、1. fiction,4.0,普立茲得獎作,原名 *Less*，2018 普立茲小說獎，喜劇筆法寫中年同志作家之旅，得獎但非正典級,推測,,2026-07-19 07:56:16.729423
-嗜讀者: 改寫美國文學史的傳奇編輯,Robert Gottlieb,#台版、紙本書、1. bio,,,,,,2026-07-19 08:10:35.235250
-擁抱似水年華: 普魯斯特如何改變你的人生,Alain de Botton,#台版、紙本書、1. non-fiction/散文,,,,,,2026-07-19 08:13:16.434461
+嗜讀者：改寫美國文學史的傳奇編輯,Robert Gottlieb,#台版、紙本書、1. bio,4.0,出版界重要回憶錄,原名 *Avid Reader: A Life*（2016），Knopf 總編輯、《紐約客》主編回憶錄，出版史重要文獻,推測,,2026-07-19 08:10:35.235250
+擁抱似水年華：普魯斯特如何改變你的人生,Alain de Botton,#台版、紙本書、1. non-fiction/散文,3.0,暢銷文學普及,原名 *How Proust Can Change Your Life*（1997），狄波頓成名作、國際暢銷，學界評價兩極,確知,,2026-07-19 08:13:16.434461
 The Wave in the Mind,Ursula K. Le Guin,#原文書,4.0,名家散文集,原名 *The Wave in the Mind*，Le Guin 談寫作、閱讀與想像的散文集，作者已入 Library of America 正典,推測,,2026-07-23 06:16:10.274777
 The Picture of Dorian Gray,Oscar Wilde,#原文書,5.0,西方正典,Norton Critical Editions，王爾德唯一長篇小說，唯美主義代表作,推測,reading,2026-07-23 06:16:10.896528
 村上私藏 大衛．史東．馬汀的美好世界,村上春樹,#台版,3.0,名家收藏隨筆,村上春樹介紹其188張爵士唱片收藏與封面畫家 David Stone Martin，圖文隨筆非文學代表作,推測,,2026-07-23 06:16:12.333485
@@ -1212,10 +1212,11 @@ Aspiration: The Agency of Becoming,Agnes Callard,#原文書,4.0,哲學專業必�
 土星座下：桑塔格論七位思想藝術大師,Susan Sontag,#台版,4.0,小眾經典／評論名家散文,原名 *Under the Sign of Saturn*（1980），論班雅明、巴特、卡內提等，桑塔格已入 Library of America 正典,確知,,2026-08-12 02:34:24.133482
 天鵝與蝙蝠,東野圭吾,#台版,3.0,流行暢銷推理,原名 *白鳥とコウモリ*（2021），作家生涯 35 週年紀念作，累計逾 90 萬部，無主要文學獎,確知,read,2026-08-12 02:34:24.245217
 架空犯,東野圭吾,#台版,3.0,系列續作／流行暢銷,原名 *架空犯*，《天鵝與蝙蝠》續作，日本週間暢銷榜冠軍，出版尚新、評價未定,推測,,2026-08-12 02:34:24.488196
-Picture of Dorian Gray,Wilde| Oscar; Bristow| Joseph;,#原文書,,,,,,2026-08-12 03:27:24.914491
+The Picture of Dorian Gray (Oxford World's Classics),Oscar Wilde,#原文書,5.0,西方正典,王爾德唯一長篇，Oxford World's Classics 版（Joseph Bristow 編註），書庫已有 Norton 版與中譯本，重複收錄,確知,,2026-08-12 03:27:24.914491
 失去的週末,Charles Jackson,,4.0,小眾經典,原名 *The Lost Weekend*（1944），酒癮文學開山之作，比利懷德奧斯卡名片原著，Vintage 重版,確知,,2026-08-18 09:27:59.894007
 文學死了嗎,J. Hillis Miller,,4.0,理論名家小書,原名 *On Literature*（2002），耶魯學派解構批評大家通識之作，Routledge Thinking in Action 系列,確知,,2026-08-18 09:28:00.234179
 日本最漫長的一天（漫畫版）,半藤一利 & 星野之宣,,4.0,經典改編,半藤一利昭和史名著漫畫化，星雲賞得主星野之宣繪，改編評價良好但非原典,推測,,2026-08-18 09:28:00.485794
 早知道就待在家,謝哲青,,3.0,暢銷散文,疫情期間的旅行書寫散文，作者為台灣暢銷作家與節目主持人，無重要獎項紀錄,推測,,2026-08-18 09:28:01.816643
 浮士德,Johann Wolfgang von Goethe,,5.0,世界文學正典,原名 *Faust*，歌德畢生鉅作、世界文學正典，上海譯文名著典藏版（簡轉繁）,確知,,2026-08-18 09:28:02.491189
-洞見,Joel Best,人文藝術,3.0,名家教學書,原名 *Is That True?*（2021），社會問題建構論名家的批判思考入門，實用但非經典,確知,,2026-08-18 09:28:46.189491
+洞見,Joel Best,,3.0,名家教學書,原名 *Is That True?*（2021），社會問題建構論名家的批判思考入門，實用但非經典,確知,,2026-08-18 09:28:46.189491
+Sudden Fiction (Continued): 60 New Short-Short Stories,Robert Shapard & James Thomas,,4.0,文類代表選集,Norton 1996 年選集，Sudden Fiction 系列確立 flash fiction 文類，此為續集卷，創寫課程常用,確知,,2026-08-20 09:22:44.275961
