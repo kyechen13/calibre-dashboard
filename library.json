@@ -17181,7 +17181,7 @@
   "id": 1766,
   "title": "盤根之森",
   "authors": "Naomi Novik",
-  "tags": "文學小說",
+  "tags": "",
   "pubdate": "2026-06-27",
   "date_added": "2026-08-31 11:38:22.299507",
   "quality_rating": 4.0,
@@ -17246,5 +17246,33 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1770.jpg"
+ },
+ {
+  "id": 1771,
+  "title": "乖，你聽畫：希臘羅馬人間篇――人生好難，眾神還來亂？那些西洋古典藝術的人間修煉場",
+  "authors": "葵花子",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-09-02 04:10:31.073722",
+  "quality_rating": 3.0,
+  "rating_label": "流行藝術入門",
+  "key_review": "同名 Podcast 衍生書，網紅與教師推薦、讀者好評，無重要獎項或學界背書",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1771.jpg"
+ },
+ {
+  "id": 1772,
+  "title": "乖，你聽畫：希臘羅馬眾神篇――聽懂神話看懂神畫，那些西洋古典藝術的超狂神蹟！",
+  "authors": "葵花子",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-09-02 04:10:31.531544",
+  "quality_rating": 3.0,
+  "rating_label": "流行藝術入門",
+  "key_review": "同名 Podcast 衍生書（2022），輕鬆神話藝術普及，暢銷好評但非經典",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1772.jpg"
  }
 ]
