@@ -16894,7 +16894,7 @@
   "rating_label": "當代文學話題作",
   "key_review": "原名 *Morgenstjernen*／英譯 *The Morning Star*，《我的奮鬥》作者轉向的新系列首作，NYT、Guardian 高度評價",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "read",
   "cover": "covers/1743.jpg"
  },
  {
@@ -16978,7 +16978,7 @@
   "rating_label": "系列續作／流行暢銷",
   "key_review": "原名 *架空犯*，《天鵝與蝙蝠》續作，日本週間暢銷榜冠軍，出版尚新、評價未定",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "read",
   "cover": "covers/1750.jpg"
  },
  {
@@ -17048,7 +17048,7 @@
   "rating_label": "暢銷散文",
   "key_review": "疫情期間的旅行書寫散文，作者為台灣暢銷作家與節目主持人，無重要獎項紀錄",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "DNF",
   "cover": "covers/1755.jpg"
  },
  {
@@ -17624,5 +17624,47 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1798.jpg"
+ },
+ {
+  "id": 1799,
+  "title": "二十世紀西方文學理論",
+  "authors": "Terry Eagleton",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-09-22 02:04:37.270826",
+  "quality_rating": 5.0,
+  "rating_label": "文學理論經典教科書",
+  "key_review": "原名 *Literary Theory: An Introduction*，1983年出版至今仍是英語世界文學理論入門標準教材，全球廣泛譯介",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1799.jpg"
+ },
+ {
+  "id": 1800,
+  "title": "邪惡紳士",
+  "authors": "Ginn Hale",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-09-22 02:04:37.468932",
+  "quality_rating": 3.0,
+  "rating_label": "類型小說/LGBT奇幻小眾獎項",
+  "key_review": "原名 *Wicked Gentlemen*，小型出版社Blind Eye Books發行，曾獲Spectrum Award（LGBT科幻奇幻獎）肯定，屬類型小說佳作而非正典",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1800.jpg"
+ },
+ {
+  "id": 1801,
+  "title": "那不勒斯故事3：逃離與留下",
+  "authors": "Elena Ferrante",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-09-22 02:05:08.976200",
+  "quality_rating": 5.0,
+  "rating_label": "當代文學重要作品",
+  "key_review": "原名 *Those Who Leave and Those Who Stay*，那不勒斯四部曲第三部，獲James Wood等重要書評人盛讚，21世紀最重要文學作品之一",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1801.jpg"
  }
 ]
