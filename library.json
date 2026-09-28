@@ -17482,7 +17482,7 @@
   "rating_label": "暢銷作家新作",
   "key_review": "2026年9月新作，作者為星雲獎得主（《巴別塔學院》），尚待時間檢驗經典地位",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "read",
   "cover": "covers/1788.jpg"
  },
  {
@@ -17552,7 +17552,7 @@
   "rating_label": "布克獎名家早期作品/小眾",
   "key_review": "原名 *Learning to Talk*，兩屆布克獎得主自傳性短篇集，非代表作但作者正典地位高",
   "confidence": "確知",
-  "reading_status": "",
+  "reading_status": "DNF",
   "cover": "covers/1793.jpg"
  },
  {
@@ -17683,7 +17683,7 @@
  },
  {
   "id": 1804,
-  "title": "當代批評理論實用指南",
+  "title": "Critical Theory Today：A User-Friendly Guide",
   "authors": "Lois Tyson",
   "tags": "",
   "pubdate": "2023-09-14",
@@ -17750,5 +17750,33 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1808.jpg"
+ },
+ {
+  "id": 1809,
+  "title": "學生特爾萊斯的困惑",
+  "authors": "Robert Musil",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-09-28 07:57:50.161834",
+  "quality_rating": 4.0,
+  "rating_label": "德語現代主義經典",
+  "key_review": "原名 *Die Verwirrungen des Zöglings Törleß*（1906），穆齊爾處女作，寄宿學校中的暴力與心理探索，被視為德語現代主義小說重要作品，1966 年改編電影獲坎城影展獎項；聲望次於《沒有個性的人》",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1809.jpg"
+ },
+ {
+  "id": 1810,
+  "title": "瑪瑙風暴",
+  "authors": "Rebecca Yarros",
+  "tags": "",
+  "pubdate": "2026-06-29",
+  "date_added": "2026-09-28 07:57:50.995118",
+  "quality_rating": 2.0,
+  "rating_label": "浪漫奇幻暢銷書",
+  "key_review": "原名 *Onyx Storm*（2025），「Empyrean」系列第三部，出版即創下成人小說首週銷量紀錄、TikTok 現象級暢銷，但書評普遍視為類型娛樂讀物，文學評價有限",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1810.jpg"
  }
 ]
