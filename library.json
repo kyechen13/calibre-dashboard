@@ -17778,5 +17778,47 @@
   "confidence": "確知",
   "reading_status": "",
   "cover": "covers/1810.jpg"
+ },
+ {
+  "id": 1811,
+  "title": "存在的瞬間：從未出版的自傳文字",
+  "authors": "Virginia Woolf",
+  "tags": "",
+  "pubdate": "2023-12-15",
+  "date_added": "2026-10-02 05:42:54.992533",
+  "quality_rating": 4.0,
+  "rating_label": "現代主義大家自傳散文經典",
+  "key_review": "原名 *Moments of Being*（1976 遺作出版），收錄吳爾芙回憶童年、父母與聖艾夫斯的自傳文字（含〈往事札記〉A Sketch of the Past），是吳爾芙研究與回憶錄寫作的核心文本，被視為理解《燈塔行》等作品的關鍵",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1811.jpg"
+ },
+ {
+  "id": 1812,
+  "title": "當代批評理論實用指南（第二版）",
+  "authors": "Lois Tyson",
+  "tags": "Critical Theory Today: A User-Friendly Guide; 2nd ed.",
+  "pubdate": "2023-12-15",
+  "date_added": "2026-10-02 05:42:56.491583",
+  "quality_rating": 3.0,
+  "rating_label": "英美大學文學理論標準入門教材",
+  "key_review": "原名 *Critical Theory Today: A User-Friendly Guide*（第二版 2006），以同一批文本示範精神分析、馬克思主義、女性主義、解構、讀者反應等學派的讀法，廣泛用於英美大學課堂，屬教科書而非原創理論著作",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1812.jpg"
+ },
+ {
+  "id": 1813,
+  "title": "羅素的故事",
+  "authors": "Apostolos Doxiadis & Christos H. Papadimitriou",
+  "tags": "",
+  "pubdate": "2008-01-04",
+  "date_added": "2026-10-02 05:42:56.784899",
+  "quality_rating": 3.0,
+  "rating_label": "廣受好評的知識類圖像小說",
+  "key_review": "原名 *Logicomix: An Epic Search for Truth*（2009），以羅素為主角講述數理邏輯基礎危機，作者為小說家與知名電腦科學家，登上紐約時報暢銷榜、獲伯特蘭·羅素學會獎，書評普遍讚賞但屬普及讀物",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1813.jpg"
  }
 ]
