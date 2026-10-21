@@ -18100,5 +18100,47 @@
   "confidence": "確知",
   "reading_status": "",
   "cover": "covers/1835.jpg"
+ },
+ {
+  "id": 1836,
+  "title": "莎士比亞十四行詩與詩集",
+  "authors": "William Shakespeare",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-10-21 02:29:07.193355",
+  "quality_rating": 5.0,
+  "rating_label": "英語詩歌正典",
+  "key_review": "原名 *Shakespeare's Sonnets & Poems*（Folger 版），收 154 首十四行詩及長詩，英語抒情詩最高正典之一，Folger 版為學界通行注本",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1836.jpg"
+ },
+ {
+  "id": 1837,
+  "title": "人工智能小白書",
+  "authors": "李笑來",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-10-21 02:29:11.273710",
+  "quality_rating": 2.0,
+  "rating_label": "時效性入門讀物",
+  "key_review": "中文原創 AI 科普入門，作者以自學與加密貨幣聞名、非 AI 專業，生成式 AI 變化快、內容時效短，未見專業書評",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1837.jpg"
+ },
+ {
+  "id": 1838,
+  "title": "哲學小分隊：暴擊藝術世界的45問",
+  "authors": "耿一偉",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-10-21 02:29:11.396891",
+  "quality_rating": 3.0,
+  "rating_label": "藝術哲學通俗入門",
+  "key_review": "中文原創，台灣劇場策展人耿一偉以問答形式介紹藝術哲學議題，典藏藝術家庭出版，屬好讀入門書，未見重要獎項",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1838.jpg"
  }
 ]
