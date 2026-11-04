@@ -16865,7 +16865,7 @@
   "quality_rating": 5.0,
   "rating_label": "美國文學正典",
   "key_review": "原名 *Bartleby",
-  "confidence": "推測",
+  "confidence": "確知",
   "reading_status": "read",
   "cover": "covers/1741.jpg"
  },
@@ -16879,7 +16879,7 @@
   "quality_rating": 4.0,
   "rating_label": "文化理論重要著作",
   "key_review": "原名 *Culture*（Yale UP",
-  "confidence": "推測",
+  "confidence": "確知",
   "reading_status": "",
   "cover": "covers/1742.jpg"
  },
@@ -17943,7 +17943,7 @@
   "quality_rating": 2.0,
   "rating_label": "衍生作品",
   "key_review": "原名 *Shakespeare's Sonnets",
-  "confidence": "",
+  "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1822.jpg"
  },
@@ -18408,5 +18408,19 @@
   "confidence": "確知",
   "reading_status": "",
   "cover": "covers/1858.jpg"
+ },
+ {
+  "id": 1859,
+  "title": "布登布洛克家族",
+  "authors": "Thomas Mann",
+  "tags": "",
+  "pubdate": "2025-05-19",
+  "date_added": "2026-11-04 02:22:05.068516",
+  "quality_rating": 5.0,
+  "rating_label": "諾貝爾獎點名的德語小說經典",
+  "key_review": "原名 *Buddenbrooks*（1901），湯瑪斯·曼首部長篇，1929 年諾貝爾文學獎頒獎詞特別點名此書，二十世紀德語文學正典，名列多種世紀最佳小說書單；此為堡壘文化 2025 年繁中新譯",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1859.jpg"
  }
 ]

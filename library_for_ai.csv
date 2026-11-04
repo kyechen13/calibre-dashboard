@@ -1203,8 +1203,8 @@ The War of Art（deepseek 中英雙語版）,Steven Pressfield,#LLMs 翻譯,3.0,
 一九八四,George Orwell,#台版,5.0,反烏托邦正典,原名 *Nineteen Eighty-Four*，二十世紀反極權小說經典，Newspeak、Big Brother 已成通用詞彙，長期列入英美中學與大學必讀,確知,,2026-07-29 02:26:59.918130
 動物農莊,George Orwell,#台版,5.0,政治寓言經典,原名 *Animal Farm*，以農場寓言諷刺史達林主義，與《一九八四》並列歐威爾代表作，Time 百大英文小說、長期教材,確知,,2026-07-29 02:27:00.420750
 大學批判性思維課,Louis E. Newman,#中譯,3.0,實用學習指南,原名 *Thinking Critically in College*，Stanford 前公民教育主任寫的大學生思辨入門手冊，實用取向而非學術經典,推測,,2026-08-08 04:19:53.040665
-抄寫員巴托比,Herman Melville,#中譯,5.0,美國文學正典,原名 *Bartleby,推測,read,2026-08-08 04:19:53.102433
-文化之用：從啟蒙運動到反恐戰爭,Terry Eagleton,#中譯,4.0,文化理論重要著作,原名 *Culture*（Yale UP,推測,,2026-08-08 04:19:53.431519
+抄寫員巴托比,Herman Melville,#中譯,5.0,美國文學正典,原名 *Bartleby,確知,read,2026-08-08 04:19:53.102433
+文化之用：從啟蒙運動到反恐戰爭,Terry Eagleton,#中譯,4.0,文化理論重要著作,原名 *Culture*（Yale UP,確知,,2026-08-08 04:19:53.431519
 晨星,Karl Ove Knausgård,#中譯,4.0,當代文學話題作,原名 *Morgenstjernen*／英譯 *The Morning Star*，《我的奮鬥》作者轉向的新系列首作，NYT、Guardian 高度評價,推測,read,2026-08-08 04:19:53.601690
 零目擊者現場,中山七里,#中譯,3.0,類型推理近作,原名 *祝祭のハングマン*（文藝春秋 2023），日本暢銷推理作家的娛樂性社會派作品，非其獲獎代表作,推測,,2026-08-08 04:19:53.678442
 Aspiration: The Agency of Becoming,Agnes Callard,#原文書,4.0,哲學專業必讀／小眾學術,牛津大學出版社學術專著，當代行動哲學與價值習得問題的重要文獻，芝大哲學教授代表作,確知,,2026-08-12 02:34:23.696836
@@ -1280,7 +1280,7 @@ Critical Theory Today：A User-Friendly Guide,Lois Tyson,,4.0,文學理論標準
 階級與品味：隱藏在文化審美與流行趨勢背後的地位渴望,W. David Marx,,3.0,廣受好評的文化評論,原名 *Status and Culture*（2022），整合社會學與文化理論解釋品味、時尚與地位競逐，獲多家媒體年度選書與書評好評，屬綜合性論述,確知,,2026-10-04 07:03:37.081616
 A Rulebook for Arguments,Anthony Weston,,4.0,論證寫作經典入門,1987 年初版、2017 年第五版，以短小規則講解論證寫作，美國大學批判思考與寫作課長年採用，譯成十餘種語言,確知,,2026-10-14 01:29:56.256546
 Critical Thinking Skills: Developing Effective Analysis and Argument,Stella Cottrell,,4.0,大學研究方法教材標準,英國高等教育廣泛採用之學習技巧與批判思考教材（Palgrave Study Skills 系列），與已評的中譯本《批判性思考》同書,確知,,2026-10-14 01:29:56.557192
-"Shakespeare's Sonnets, Retold: Classic Love Poems with a Modern Twist",William Shakespeare & James Anthony,,2.0,衍生作品,原名 *Shakespeare's Sonnets,,,2026-10-14 01:29:56.768154
+"Shakespeare's Sonnets, Retold: Classic Love Poems with a Modern Twist",William Shakespeare & James Anthony,,2.0,衍生作品,原名 *Shakespeare's Sonnets,推測,,2026-10-14 01:29:56.768154
 全美最強教授的17堂論文寫作必修課,Gerald Graff & Cathy Birkenstein,,4.0,美國大學寫作課標準教材,原名 *They Say / I Say*（2006，已出至第五版），以句型模板教學術論證寫作，是美國大學寫作課最常用的教材之一，銷量逾百萬冊,確知,,2026-10-14 01:29:57.583609
 哲學史講授課：從巴門尼德到黑格爾,Anton Friedrich Koch,,3.0,德國哲學家的哲學史講稿,海德堡大學哲學教授科赫的西洋哲學史講課稿（十八講），作者以形上學與黑格爾研究著稱；講稿屬入門綜述，未見英語世界評論依據,推測,,2026-10-14 01:29:57.684832
 幻影書,Paul Auster,,4.0,當代美國文學名家代表作,原名 *The Book of Illusions*（2002），奧斯特談默片導演與喪親之痛的長篇，獲多家媒體年度選書、書評普遍譽為其後期最佳作品之一,確知,,2026-10-14 01:29:58.530886
@@ -1314,3 +1314,4 @@ Craft in the Real World,Matthew Salesses,,4.0,創意寫作課新經典,原名 *C
 故事骨架：經典小說的結構解剖,Michelle Barker & David Griffin Brown,,3.0,小說結構分析實用書,原名 *Story Skeleton: The Classics*，兩位文稿編輯拆解《傲慢與偏見》到《教父》等 21 部經典小說的情節節點與技法，讀者評價不錯但評論數少、缺乏專業書評與學術引用,確知,,2026-11-04 02:08:34.370707
 教養：關於歷史、文學、藝術、音樂、哲學與世界風俗文化，你必須知道的事,Dietrich Schwanitz,人文藝術,3.0,德語暢銷通識讀物,原名 *Bildung: Alles,確知,,2026-11-04 02:08:34.789349
 柳林風聲,Kenneth Grahame,,5.0,英語兒童文學經典,原名 *The Wind in the Willows*（1908），英語兒童文學黃金時代代表作，百年來持續再版、改編，名列多種最佳兒童書單,確知,,2026-11-04 02:08:35.869140
+布登布洛克家族,Thomas Mann,,5.0,諾貝爾獎點名的德語小說經典,原名 *Buddenbrooks*（1901），湯瑪斯·曼首部長篇，1929 年諾貝爾文學獎頒獎詞特別點名此書，二十世紀德語文學正典，名列多種世紀最佳小說書單；此為堡壘文化 2025 年繁中新譯,確知,,2026-11-04 02:22:05.068516
