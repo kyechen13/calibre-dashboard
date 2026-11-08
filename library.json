@@ -17706,22 +17706,8 @@
   "rating_label": "犯罪小說/系列番外中篇",
   "key_review": "原名 *The Cross*，Eddie Flynn 律師驚悚系列的前傳中篇；作者以該系列（如 *Thirteen*）獲犯罪小說獎項與暢銷肯定，但本作為次要短篇",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "read",
   "cover": "covers/1805.jpg"
- },
- {
-  "id": 1806,
-  "title": "寫信的人",
-  "authors": "Virginia Evans",
-  "tags": "",
-  "pubdate": "0101-01-01",
-  "date_added": "2026-09-26 10:21:35.987345",
-  "quality_rating": 3.0,
-  "rating_label": "當代小說暢銷處女作",
-  "key_review": "原名 *The Correspondent*（2025），書信體小說，出版後登上暢銷榜並獲媒體好評，出版時間尚短、未有經典地位",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1806.jpg"
  },
  {
   "id": 1807,
@@ -17762,7 +17748,7 @@
   "rating_label": "德語現代主義經典",
   "key_review": "原名 *Die Verwirrungen des Zöglings Törleß*（1906），穆齊爾處女作，寄宿學校中的暴力與心理探索，被視為德語現代主義小說重要作品，1966 年改編電影獲坎城影展獎項；聲望次於《沒有個性的人》",
   "confidence": "確知",
-  "reading_status": "",
+  "reading_status": "DNF",
   "cover": "covers/1809.jpg"
  },
  {
@@ -17776,7 +17762,7 @@
   "rating_label": "浪漫奇幻暢銷書",
   "key_review": "原名 *Onyx Storm*（2025），「Empyrean」系列第三部，出版即創下成人小說首週銷量紀錄、TikTok 現象級暢銷，但書評普遍視為類型娛樂讀物，文學評價有限",
   "confidence": "確知",
-  "reading_status": "",
+  "reading_status": "DNF",
   "cover": "covers/1810.jpg"
  },
  {
@@ -17832,7 +17818,7 @@
   "rating_label": "新批評派小說技藝讀本",
   "key_review": "原名 *How to Read a Novel*（1957），南方文藝復興小說家高登以新批評視角談觀點、場景與敘事技藝，地位次於她與 Allen Tate 合編的 *The House of Fiction*",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "reading",
   "cover": "covers/1814.jpg"
  },
  {
@@ -17916,7 +17902,7 @@
   "rating_label": "論證寫作經典入門",
   "key_review": "1987 年初版、2017 年第五版，以短小規則講解論證寫作，美國大學批判思考與寫作課長年採用，譯成十餘種語言",
   "confidence": "確知",
-  "reading_status": "",
+  "reading_status": "reading",
   "cover": "covers/1820.jpg"
  },
  {
@@ -17958,7 +17944,7 @@
   "rating_label": "美國大學寫作課標準教材",
   "key_review": "原名 *They Say / I Say*（2006，已出至第五版），以句型模板教學術論證寫作，是美國大學寫作課最常用的教材之一，銷量逾百萬冊",
   "confidence": "確知",
-  "reading_status": "",
+  "reading_status": "reading",
   "cover": "covers/1825.jpg"
  },
  {
@@ -18056,7 +18042,7 @@
   "rating_label": "論證寫作經典入門",
   "key_review": "原名 *A Rulebook for Arguments*（第五版），以短小規則講解論證寫作，美國大學批判思考與寫作課長年採用，譯成十餘種語言",
   "confidence": "確知",
-  "reading_status": "",
+  "reading_status": "reading",
   "cover": "covers/1832.jpg"
  },
  {
@@ -18084,7 +18070,7 @@
   "rating_label": "紀實寫作大師談寫作技藝",
   "key_review": "原名 *Working*（2019），兩屆普立茲獎傳記作家卡羅談研究、訪談與寫作方法，被視為非虛構寫作經典指南，書評普遍讚譽",
   "confidence": "確知",
-  "reading_status": "",
+  "reading_status": "skim",
   "cover": "covers/1834.jpg"
  },
  {
@@ -18422,5 +18408,75 @@
   "confidence": "確知",
   "reading_status": "",
   "cover": "covers/1859.jpg"
+ },
+ {
+  "id": 1860,
+  "title": "AFC Adaptive Performance Technology - English Catalog + Three Appendix Pages",
+  "authors": "未知",
+  "tags": "",
+  "pubdate": "2026-09-22",
+  "date_added": "2026-11-08 06:07:56.174799",
+  "quality_rating": null,
+  "rating_label": "",
+  "key_review": "",
+  "confidence": "",
+  "reading_status": "",
+  "cover": "covers/1860.jpg"
+ },
+ {
+  "id": 1861,
+  "title": "傅柯：不受權力擺布的人生",
+  "authors": "箱田徹",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-08 06:07:56.307445",
+  "quality_rating": 3.0,
+  "rating_label": "思想家入門讀物",
+  "key_review": "日本學者撰寫的傅柯入門小書（遠流繁中版），梳理權力、治理與自我技術概念；屬導讀性質非原創研究",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1861.jpg"
+ },
+ {
+  "id": 1862,
+  "title": "地下雷普利",
+  "authors": "Patricia Highsmith",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-08 06:07:56.977990",
+  "quality_rating": 4.0,
+  "rating_label": "經典系列續作",
+  "key_review": "原名 *Ripley Under Ground*（1970），雷普利系列第二部，評價高但不及首部的正典地位",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1862.jpg"
+ },
+ {
+  "id": 1863,
+  "title": "天才雷普利",
+  "authors": "Patricia Highsmith",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-08 06:07:57.605025",
+  "quality_rating": 5.0,
+  "rating_label": "犯罪小說經典",
+  "key_review": "原名 *The Talented Mr. Ripley*（1955），獲法國推理小說大獎、愛倫坡獎提名，收入 Library of America，心理懸疑正典",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1863.jpg"
+ },
+ {
+  "id": 1864,
+  "title": "盧梭：重新質疑「此時此地」",
+  "authors": "桑瀨章二郎",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-08 06:07:57.674380",
+  "quality_rating": 3.0,
+  "rating_label": "思想家入門讀物",
+  "key_review": "日本盧梭研究者撰寫的入門書（遠流繁中版），概述盧梭思想與當代意義；屬導讀性質非原創研究",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1864.jpg"
  }
 ]
