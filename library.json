@@ -3473,15 +3473,15 @@
  },
  {
   "id": 371,
-  "title": "地海傳奇第 1 部：地海巫師",
-  "authors": "Ursula K.Le Guin",
+  "title": "地海巫師（地海六部曲一）",
+  "authors": "Ursula K. Le Guin",
   "tags": "#台版、1. fiction、📚fundamental reading list",
   "pubdate": "2014-10-05",
   "date_added": "2024-05-30 08:34:35.612000",
   "quality_rating": 5.0,
-  "rating_label": "學科經典",
-  "key_review": "奇幻文學正典，與《魔戒》齊名的經典。原書名：A Wizard of Earthsea",
-  "confidence": "推測",
+  "rating_label": "奇幻文學正典",
+  "key_review": "原名 *A Wizard of Earthsea*（1968），獲 Boston Globe–Horn Book Award，奇幻文學公認經典，魔法學校成長小說原型，長期列於各大奇幻/青少年文學經典書單",
+  "confidence": "確知",
   "reading_status": "",
   "cover": "covers/371.jpg"
  },
@@ -18576,5 +18576,33 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1880.jpg"
+ },
+ {
+  "id": 1881,
+  "title": "地海孤雛（地海六部曲四）",
+  "authors": "Ursula K. Le Guin",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-17 06:59:13.143076",
+  "quality_rating": 5.0,
+  "rating_label": "奇幻文學經典",
+  "key_review": "原名 *Tehanu*（1990），獲星雲獎最佳長篇，勒瑰恩以女性主義視角重寫地海世界，學界討論豐富",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1881.jpg"
+ },
+ {
+  "id": 1882,
+  "title": "地海奇風（地海六部曲六）",
+  "authors": "Ursula K. Le Guin",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-17 06:59:13.199639",
+  "quality_rating": 4.0,
+  "rating_label": "奇幻文學經典系列作",
+  "key_review": "原名 *The Other Wind*（2001），獲世界奇幻獎最佳長篇，地海系列完結篇，評價高但影響力不及首部曲",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1882.jpg"
  }
 ]
