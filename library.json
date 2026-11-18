@@ -1228,7 +1228,7 @@
   "rating_label": "暢銷好評",
   "key_review": "Bernie Rhodenbarr系列合集。",
   "confidence": "推測",
-  "reading_status": "reading",
+  "reading_status": "",
   "cover": "covers/155.jpg"
  },
  {
@@ -8148,20 +8148,6 @@
   "cover": "covers/1002.jpg"
  },
  {
-  "id": 1003,
-  "title": "富爸爸，有錢有理",
-  "authors": "Robert T. Kiyosaki",
-  "tags": "紙本書",
-  "pubdate": "0101-01-01",
-  "date_added": "0101-01-01 00:00:00",
-  "quality_rating": 2.0,
-  "rating_label": "franchise 衍生",
-  "key_review": "富爸爸系列衍生作，理財建議品質存疑",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1003.jpg"
- },
- {
   "id": 1004,
   "title": "財務自由，提早過你真正想過的生活",
   "authors": "Grant Sabatier",
@@ -10342,7 +10328,7 @@
   "rating_label": "學科經典",
   "key_review": "公認最權威的維根斯坦傳記，哲學傳記類正典，獲 Duff Cooper Prize",
   "confidence": "推測",
-  "reading_status": "reading",
+  "reading_status": "skim",
   "cover": "covers/1160.jpg"
  },
  {
@@ -10356,7 +10342,7 @@
   "rating_label": "學科經典",
   "key_review": "公認最權威的維根斯坦傳記，哲學傳記類正典，獲 Duff Cooper Prize",
   "confidence": "推測",
-  "reading_status": "reading",
+  "reading_status": "skim",
   "cover": "covers/1161.jpg"
  },
  {
@@ -15904,20 +15890,6 @@
   "cover": "covers/1641.jpg"
  },
  {
-  "id": 1643,
-  "title": "巴黎文學地圖",
-  "authors": "Mike Gerrard",
-  "tags": "#中譯、1. BoB",
-  "pubdate": "2021-12-31",
-  "date_added": "2026-05-17 06:10:00.216743",
-  "quality_rating": 2.0,
-  "rating_label": "文學旅遊參考書",
-  "key_review": "布魯姆文學地圖系列之一，屬實用旅遊參考讀物，非原創學術或文學作品",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1643.jpg"
- },
- {
   "id": 1644,
   "title": "假如鏡子欺騙了我",
   "authors": "Jia Tolentino",
@@ -15958,20 +15930,6 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1646.jpg"
- },
- {
-  "id": 1647,
-  "title": "倫敦文學地圖",
-  "authors": "Donna Dailey & John Tomedy",
-  "tags": "#中譯、1. BoB",
-  "pubdate": "2021-12-31",
-  "date_added": "2026-05-17 06:10:14.944039",
-  "quality_rating": 2.0,
-  "rating_label": "文學旅遊參考書",
-  "key_review": "布魯姆文學地圖系列之一，屬實用旅遊參考讀物，非原創學術或文學作品",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1647.jpg"
  },
  {
   "id": 1648,
@@ -16056,20 +16014,6 @@
   "confidence": "推測",
   "reading_status": "",
   "cover": "covers/1653.jpg"
- },
- {
-  "id": 1654,
-  "title": "閣樓裡的骷髏",
-  "authors": "Judy Penz Sheluk",
-  "tags": "#台版、1. fiction",
-  "pubdate": "0101-01-01",
-  "date_added": "2026-06-20 08:20:17.344697",
-  "quality_rating": 2.0,
-  "rating_label": "類型小說/小眾推理",
-  "key_review": "加拿大推理作家系列小說，屬大眾娛樂讀物，未見學術或重要獎項認可",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1654.jpg"
  },
  {
   "id": 1655,
@@ -17162,20 +17106,6 @@
   "confidence": "確知",
   "reading_status": "",
   "cover": "covers/1764.jpg"
- },
- {
-  "id": 1765,
-  "title": "每一個版本的你",
-  "authors": "Natalie Messier",
-  "tags": "",
-  "pubdate": "2026-08-20",
-  "date_added": "2026-08-31 11:38:22.127436",
-  "quality_rating": 3.0,
-  "rating_label": "新作評價未定",
-  "key_review": "原名 *Every Version of You*（2026），新作僅見 Kirkus 書評，尚無獎項或共識",
-  "confidence": "推測",
-  "reading_status": "",
-  "cover": "covers/1765.jpg"
  },
  {
   "id": 1766,
@@ -18604,5 +18534,47 @@
   "confidence": "確知",
   "reading_status": "",
   "cover": "covers/1882.jpg"
+ },
+ {
+  "id": 1883,
+  "title": "地海彼岸（地海六部曲三）",
+  "authors": "Ursula K. Le Guin",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-18 02:45:38.691007",
+  "quality_rating": 5.0,
+  "rating_label": "奇幻文學經典",
+  "key_review": "原名 *The Farthest Shore*（1972），獲美國國家圖書獎（兒童文學類），地海初始三部曲完結篇，探討死亡與平衡",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1883.jpg"
+ },
+ {
+  "id": 1884,
+  "title": "地海古墓（地海六部曲二）",
+  "authors": "Ursula K. Le Guin",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-18 02:45:38.848707",
+  "quality_rating": 5.0,
+  "rating_label": "奇幻文學經典",
+  "key_review": "原名 *The Tombs of Atuan*（1971），獲 Newbery Honor，地海系列第二部，以少女恬娜為主角，常與首部曲並列為奇幻/青少年文學經典",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1884.jpg"
+ },
+ {
+  "id": 1885,
+  "title": "地海故事集（地海六部曲五）",
+  "authors": "Ursula K. Le Guin",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-18 02:45:38.940804",
+  "quality_rating": 4.0,
+  "rating_label": "奇幻文學經典系列作",
+  "key_review": "原名 *Tales from Earthsea*（2001），地海系列短篇集，獲 Locus Award 最佳短篇集，〈蜻蜓〉銜接第四、六部，屬系列補完之作",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1885.jpg"
  }
 ]
