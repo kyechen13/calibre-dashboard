@@ -1175,7 +1175,7 @@ Beginning Theory: An Introduction to Literary and Cultural Theory,Peter Barry,#�
 The Power Broker: Robert Moses and the Fall of New York,Robert A. Caro,#LLMs 翻譯、1. non-fiction/紀實,5.0,普立茲獎/紀實經典,1975年普立茲獎，入選現代文庫20世紀百大非虛構作品,推測,,2026-07-03 04:52:04.091837
 我們賴以生存的譬喻,George Lakoff、Mark Johnson,#台版,5.0,認知語言學奠基經典,認知語言學隱喻理論奠基之作，翻譯16種語言，學術引用持續至今 (*Metaphors We Live By*),推測,,2026-07-03 04:52:04.885118
 小說修辭學,Wayne C. Booth,1. theorie litteraire,5.0,學科經典,原書 The Rhetoric of Fiction（1961），敘事學奠基之作，提出「隱含作者」與「不可靠敘事者」,推測,,2026-07-05 06:04:20.068440
-小說鑑賞（第3版）,Cleanth Brooks & Robert Penn Warren,1. theorie litteraire,5.0,學科經典教科書,原書 Understanding Fiction（1943），新批評細讀法的標準教材,推測,,2026-07-05 06:04:21.561542
+小說鑑賞（第3版）,Cleanth Brooks & Robert Penn Warren,1. theorie litteraire,5.0,學科經典教科書,原書 Understanding Fiction（1943），新批評細讀法的標準教材,推測,reading,2026-07-05 06:04:21.561542
 文藝學基礎文獻選讀,徐岱| 沈語冰,1. theorie litteraire,3.0,學術選本,浙江大學出版社文論教學選讀本，選文經典但編集本身屬教材性質,推測,,2026-07-05 06:04:21.766315
 文藝學美學方法論,胡經之| 王岳川,#PDF、1. theorie litteraire,4.0,中文學界重要教材,北京大學出版社 1994，中國文藝學方法論的代表性編著,推測,,2026-07-05 06:04:22.014928
 因為佩索亞，所以里斯本,Fernando Pessoa,#台版、1. non-fiction/散文,3.0,名家小品,原名 *Lisbon: What the Tourist Should See*，佩索亞 1925 年里斯本導覽遺稿，紀念價值大於著作地位,推測,,2026-07-13 05:00:43.468248
@@ -1265,7 +1265,7 @@ Critical Theory Today：A User-Friendly Guide,Lois Tyson,,4.0,文學理論標準
 存在的瞬間：從未出版的自傳文字,Virginia Woolf,#PDF,4.0,現代主義大家自傳散文經典,原名 *Moments of Being*（1976 遺作出版），收錄吳爾芙回憶童年、父母與聖艾夫斯的自傳文字（含〈往事札記〉A Sketch of the Past），是吳爾芙研究與回憶錄寫作的核心文本，被視為理解《燈塔行》等作品的關鍵,確知,,2026-10-02 05:42:54.992533
 當代批評理論實用指南（第二版）,Lois Tyson,#PDF,3.0,英美大學文學理論標準入門教材,原名 *Critical Theory Today: A User-Friendly Guide*（第二版 2006），以同一批文本示範精神分析、馬克思主義、女性主義、解構、讀者反應等學派的讀法，廣泛用於英美大學課堂，屬教科書而非原創理論著作,確知,,2026-10-02 05:42:56.491583
 羅素的故事,Apostolos Doxiadis & Christos H. Papadimitriou,#PDF,3.0,廣受好評的知識類圖像小說,原名 *Logicomix: An Epic Search for Truth*（2009），以羅素為主角講述數理邏輯基礎危機，作者為小說家與知名電腦科學家，登上紐約時報暢銷榜、獲伯特蘭·羅素學會獎，書評普遍讚賞但屬普及讀物,確知,,2026-10-02 05:42:56.784899
-如何閱讀小說,Caroline Gordon,,3.0,新批評派小說技藝讀本,原名 *How to Read a Novel*（1957），南方文藝復興小說家高登以新批評視角談觀點、場景與敘事技藝，地位次於她與 Allen Tate 合編的 *The House of Fiction*,推測,reading,2026-10-04 07:03:35.950564
+如何閱讀小說,Caroline Gordon,,3.0,新批評派小說技藝讀本,原名 *How to Read a Novel*（1957），南方文藝復興小說家高登以新批評視角談觀點、場景與敘事技藝，地位次於她與 Allen Tate 合編的 *The House of Fiction*,推測,read,2026-10-04 07:03:35.950564
 成為作家,Dorothea Brande,,4.0,創意寫作經典,原名 *Becoming a Writer*（1934），談作家心態與寫作習慣的長銷經典，1981 年再版由 John Gardner 作序，至今仍是英美寫作課常見推薦書,確知,,2026-10-04 07:03:36.266540
 罌粟戰爭,R. F. Kuang,,3.0,獲獎類型奇幻,原名 *The Poppy War*（2018），以中日戰爭與南京大屠殺為原型的軍事奇幻，獲 Crawford Award、入圍 Nebula 與 Locus 獎，作者後以《巴別塔》成名,確知,,2026-10-04 07:03:36.493430
 英國人入門,蕭曦清,#台版、2. monde,2.0,台版通俗國情介紹,台灣外交官作者介紹英國社會、文化與生活的入門讀物，未見具體獎項或學界評論依據,推測,,2026-10-04 07:03:36.745345
@@ -1326,3 +1326,9 @@ Craft in the Real World,Matthew Salesses,#原文書、2. writing,4.0,創意寫�
 地海彼岸（地海六部曲三）,Ursula K. Le Guin,,5.0,奇幻文學經典,原名 *The Farthest Shore*（1972），獲美國國家圖書獎（兒童文學類），地海初始三部曲完結篇，探討死亡與平衡,確知,,2026-11-18 02:45:38.691007
 地海古墓（地海六部曲二）,Ursula K. Le Guin,,5.0,奇幻文學經典,原名 *The Tombs of Atuan*（1971），獲 Newbery Honor，地海系列第二部，以少女恬娜為主角，常與首部曲並列為奇幻/青少年文學經典,確知,,2026-11-18 02:45:38.848707
 地海故事集（地海六部曲五）,Ursula K. Le Guin,,4.0,奇幻文學經典系列作,原名 *Tales from Earthsea*（2001），地海系列短篇集，獲 Locus Award 最佳短篇集，〈蜻蜓〉銜接第四、六部，屬系列補完之作,確知,,2026-11-18 02:45:38.940804
+寫作之道,William Zinsser,,5.0,寫作指南經典,原名 *On Writing Well*（1976），非虛構寫作公認必讀，銷量逾百萬冊、多次修訂再版，寫作課標準教材,確知,,2026-11-25 03:15:05.182366
+方案：人體操作手冊,Andrew Huberman,Health & Fitness、Aging & Longevity,3.0,流行健康暢銷,原名 *Protocols*（2025），Podcast 名人整理的健康作息建議，暢銷但科學嚴謹度在學界有爭議,推測,,2026-11-25 03:15:05.404274
+糜骨之壤,Olga Tokarczuk,,4.0,諾貝爾得主重要小說,原名 *Prowadź swój pług przez kości umarłych*（2009），英譯本入圍 2019 國際布克獎，改編電影獲柏林影展銀熊獎,確知,,2026-11-25 03:15:05.511586
+自我升級第一原理,Michael Gervais & Kevin Lake,,3.0,流行實用,原名 *The First Rule of Mastery*（2023），運動心理學家談擺脫他人眼光，屬一般自我成長書,推測,,2026-11-25 03:15:05.607852
+超音樂理論 泛音‧音程‧音階,侘美秀俊,人文藝術,3.0,流行實用,日本作曲家寫的樂理入門圖解，從泛音解釋音程與音階，實用但非學科經典,推測,,2026-11-25 03:15:05.699190
+信任練習,Susan Choi,,4.0,文學獎得主小說,原名 *Trust Exercise*（2019），獲美國國家圖書獎小說類，以敘事反轉探討記憶與權力,確知,,2026-11-25 03:15:21.421748

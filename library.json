@@ -16474,7 +16474,7 @@
   "rating_label": "學科經典教科書",
   "key_review": "原書 Understanding Fiction（1943），新批評細讀法的標準教材",
   "confidence": "推測",
-  "reading_status": "",
+  "reading_status": "reading",
   "cover": "covers/1704.jpg"
  },
  {
@@ -17734,7 +17734,7 @@
   "rating_label": "新批評派小說技藝讀本",
   "key_review": "原名 *How to Read a Novel*（1957），南方文藝復興小說家高登以新批評視角談觀點、場景與敘事技藝，地位次於她與 Allen Tate 合編的 *The House of Fiction*",
   "confidence": "推測",
-  "reading_status": "reading",
+  "reading_status": "read",
   "cover": "covers/1814.jpg"
  },
  {
@@ -18576,5 +18576,89 @@
   "confidence": "確知",
   "reading_status": "",
   "cover": "covers/1885.jpg"
+ },
+ {
+  "id": 1886,
+  "title": "寫作之道",
+  "authors": "William Zinsser",
+  "tags": "",
+  "pubdate": "2026-11-20",
+  "date_added": "2026-11-25 03:15:05.182366",
+  "quality_rating": 5.0,
+  "rating_label": "寫作指南經典",
+  "key_review": "原名 *On Writing Well*（1976），非虛構寫作公認必讀，銷量逾百萬冊、多次修訂再版，寫作課標準教材",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1886.jpg"
+ },
+ {
+  "id": 1887,
+  "title": "方案：人體操作手冊",
+  "authors": "Andrew Huberman",
+  "tags": "Health & Fitness、Aging & Longevity",
+  "pubdate": "2025-04-21",
+  "date_added": "2026-11-25 03:15:05.404274",
+  "quality_rating": 3.0,
+  "rating_label": "流行健康暢銷",
+  "key_review": "原名 *Protocols*（2025），Podcast 名人整理的健康作息建議，暢銷但科學嚴謹度在學界有爭議",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1887.jpg"
+ },
+ {
+  "id": 1888,
+  "title": "糜骨之壤",
+  "authors": "Olga Tokarczuk",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-25 03:15:05.511586",
+  "quality_rating": 4.0,
+  "rating_label": "諾貝爾得主重要小說",
+  "key_review": "原名 *Prowadź swój pług przez kości umarłych*（2009），英譯本入圍 2019 國際布克獎，改編電影獲柏林影展銀熊獎",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1888.jpg"
+ },
+ {
+  "id": 1889,
+  "title": "自我升級第一原理",
+  "authors": "Michael Gervais & Kevin Lake",
+  "tags": "",
+  "pubdate": "0101-01-01",
+  "date_added": "2026-11-25 03:15:05.607852",
+  "quality_rating": 3.0,
+  "rating_label": "流行實用",
+  "key_review": "原名 *The First Rule of Mastery*（2023），運動心理學家談擺脫他人眼光，屬一般自我成長書",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1889.jpg"
+ },
+ {
+  "id": 1890,
+  "title": "超音樂理論 泛音‧音程‧音階",
+  "authors": "侘美秀俊",
+  "tags": "人文藝術",
+  "pubdate": "2026-02-26",
+  "date_added": "2026-11-25 03:15:05.699190",
+  "quality_rating": 3.0,
+  "rating_label": "流行實用",
+  "key_review": "日本作曲家寫的樂理入門圖解，從泛音解釋音程與音階，實用但非學科經典",
+  "confidence": "推測",
+  "reading_status": "",
+  "cover": "covers/1890.jpg"
+ },
+ {
+  "id": 1891,
+  "title": "信任練習",
+  "authors": "Susan Choi",
+  "tags": "",
+  "pubdate": "2023-01-14",
+  "date_added": "2026-11-25 03:15:21.421748",
+  "quality_rating": 4.0,
+  "rating_label": "文學獎得主小說",
+  "key_review": "原名 *Trust Exercise*（2019），獲美國國家圖書獎小說類，以敘事反轉探討記憶與權力",
+  "confidence": "確知",
+  "reading_status": "",
+  "cover": "covers/1891.jpg"
  }
 ]
